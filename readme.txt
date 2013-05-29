@@ -4,15 +4,33 @@ Donate link: http://www.trottyzone.com/donation/
 Tags: woocommerce, wc, wc checkout settings, remove checkout fields, plugin, checkout page, manager, checkout field, checkout manager,plugin for plugin, paypal, payment,require, required remove, woocommerce checkout manager, checkout field
 Requires at least: 3.0
 Tested up to: 3.5.1
-Stable tag: 1.3
+Stable tag: 1.4
 License: GPLv2 or later
 
-Manages WooCommerce Checkout fields
+Manages WooCommerce Checkout
 
 
 == Description ==
 
-This plugin targets the WooCommerce Checkout Page. For each and every field you can remove it totally or the required attribute. Removing the required attribute renders the field completely optional for the customer to fill out.
+1. This plugin targets the WooCommerce Checkout Page and WooCommerce Checkout Receipt. For each and every field you can remove it totally or the required attribute. Removing the required attribute renders the field completely optional for the customer to fill out.
+
+2. Their is also an option in this plugin where you can change the message the customer gets in the footer area of the receipt.
+
+3. * You can also add more fields to the checkout page *
+
+= Removing fields =
+Removing fields became easier now, all you have to do is tick which box or which boxes that you do not want to show on the checkout page and it will be removed.
+Also you have the ability to not just remove the field alone but also remove the required (asterisk) attribute from the field. Leaving the field optional for the customer to fill out.
+
+*Please Note that their is no need to tick both the remove field and remove required boxes.
+
+= Receipt =
+After the order is cleared, you the manager of the product gets a receipt and also the customer, now in the footer (which is the last thing someone sees on the receipt) you can customize that, and probably put your business address, or contact numbers, customer care numbers or even send best wishes and appreciation for the product they bought.
+
+= Add New fields function =
+Request for adding new fields to the checkout page has been introduced. All you have to do is click the "Add New field" button and a drop down box will show allowing you to set the new field name which is "Label" and to set the example in the field which is "Placeholder."
+
+Placeholder allows the customer, the ability to get the feel of what exactly is this field about. 
 
 
 == Installation ==
@@ -23,6 +41,7 @@ This plugin targets the WooCommerce Checkout Page. For each and every field you 
 
 == Frequently Asked Questions ==
 Ask your questions on the plugin author <a href="http://www.trottyzone.com/forums/forum/website-support/">forum</a>
+You will get personal help.
 
 == Screenshots ==
 
@@ -39,6 +58,9 @@ Added required attribute removal
 = 1.3 =
 Bug fix!
 
+= 1.4 =
+More features added.
+
 == Changelog ==
 
 = 1.0 =
@@ -49,3 +71,6 @@ Added required attribute removal
 
 = 1.3 =
 bug fix!
+
+= 1.4 =
+More features added.
