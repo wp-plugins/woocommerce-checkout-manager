@@ -4,7 +4,7 @@ Donate link: http://www.trottyzone.com/donation/
 Tags: woocommerce, wc, wc checkout settings, remove checkout fields, plugin, checkout page, manager, checkout field, checkout manager,plugin for plugin, paypal, payment,require, required remove, woocommerce checkout manager, checkout field
 Requires at least: 3.0
 Tested up to: 3.5.1
-Stable tag: 1.6
+Stable tag: 1.7
 License: GPLv2 or later
 
 Manages WooCommerce Checkout
@@ -16,7 +16,9 @@ Manages WooCommerce Checkout
 
 2. Their is also an option in this plugin where you can change the message the customer gets in the footer area of the receipt.
 
-3. * You can also add more fields to the checkout page and re-order them as you wish.
+3. You can also add more fields to the checkout page and re-order them as you wish.
+
+4. Add or Remove the required attribute from each new field created.
 
 = Removing fields =
 Removing fields became easier now, all you have to do is tick which box or which boxes that you do not want to show on the checkout page and it will be removed.
@@ -30,11 +32,13 @@ After the order is cleared, you the manager of the product gets a receipt and al
 = Add New fields function =
 Request for adding new fields to the checkout page has been introduced. All you have to do is click the "Add New field" button and a drop down box will show allowing you to set the new field name which is "Label" and to set the example in the field which is "Placeholder."
 
-Placeholder allows the customer, the ability to get the feel of what exactly is this field about. 
+* Placeholder allows the customer, the ability to get the feel of what exactly is this field about. 
+
+= Control each field Required Attribute =
+Add or Remove required attribute from each new field created.
 
 = Re-order fields =
-You can now re-order the fields in the options panel. 
-
+You can now re-order the fields on the checkout page from the options panel.
 
 == Installation ==
 
@@ -70,6 +74,9 @@ some bugs fixed
 = 1.6 =
 more bugs fixed
 
+= 1.7 =
+add/remove required field for each new fields
+
 == Changelog ==
 
 = 1.0 =
@@ -89,3 +96,6 @@ some bugs fixed
 
 = 1.6 =
 more bugs fixed
+
+= 1.7 =
+add/remove required field for each new fields
