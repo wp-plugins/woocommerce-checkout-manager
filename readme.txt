@@ -4,7 +4,7 @@ Donate link: http://www.trottyzone.com/donation/
 Tags: woocommerce, wc, wc checkout settings, remove checkout fields, plugin, checkout page, manager, checkout field, checkout manager,plugin for plugin, paypal, payment,require, required remove, woocommerce checkout manager, checkout field
 Requires at least: 3.0
 Tested up to: 3.5.1
-Stable tag: 2.2
+Stable tag: 2.3
 License: GPLv2 or later
 
 Manages WooCommerce Checkout
@@ -20,7 +20,7 @@ Manages WooCommerce Checkout
 
 4. Add or Remove the required attribute from each new field created.
 
-5. The new fields that you created their data are added to the receipt under "Additional information." 
+5. The new fields that you created their data are added to the Order Summary & Receipt under "Additional information." 
 
 = Removing fields =
 Removing fields became easier now, all you have to do is tick which box or which boxes that you do not want to show on the checkout page and it will be removed.
@@ -42,9 +42,8 @@ Add or Remove required attribute from each new field created.
 = Re-order fields =
 You can now re-order the fields on the checkout page from the options panel.
 
-= Custom fields data are added to the receipt =
-The new fields that you created, the data that the customer entered are printed on the email receipt under "Additional information."
-
+= Custom fields data are added to the order summary & receipt =
+The new fields that you created, the data that the customer entered are printed on the order summary & email receipt under "Additional information."
 
 == Installation ==
 
@@ -59,6 +58,8 @@ You will get personal help.
 == Screenshots ==
 
 1. Settings Page
+2. Order Summary
+3. Receipt
 
 == Upgrade Notice ==
 
@@ -92,6 +93,9 @@ Checkout process fix
 = 2.2 =
 bug fix
 
+= 2.3 =
+Additional features
+
 == Changelog ==
 
 = 1.0 =
@@ -123,3 +127,6 @@ Checkout process fix
 
 = 2.2 =
 bug fix
+
+= 2.3 =
+Additional features
