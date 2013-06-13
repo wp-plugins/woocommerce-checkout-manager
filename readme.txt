@@ -4,13 +4,15 @@ Donate link: http://www.trottyzone.com/donation/
 Tags: woocommerce, wc, wc checkout settings, remove checkout fields, plugin, checkout page, manager, checkout field, checkout manager,plugin for plugin, paypal, payment,require, required remove, woocommerce checkout manager, checkout field
 Requires at least: 3.0
 Tested up to: 3.5.1
-Stable tag: 2.3
+Stable tag: 2.4
 License: GPLv2 or later
 
 Manages WooCommerce Checkout
 
 
 == Description ==
+
+Localization Initialized...Ready!!!
 
 1. This plugin targets the WooCommerce Checkout Page and WooCommerce Checkout Receipt. For each and every field you can remove it totally or the required attribute. Removing the required attribute renders the field completely optional for the customer to fill out.
 
@@ -44,6 +46,16 @@ You can now re-order the fields on the checkout page from the options panel.
 
 = Custom fields data are added to the order summary & receipt =
 The new fields that you created, the data that the customer entered are printed on the order summary & email receipt under "Additional information."
+
+
+= Included Translations =
+* SPANISH
+* GERMAN
+* DUTCH
+* FINNISH
+* FRENCH
+* Norwegian
+* Polish
 
 == Installation ==
 
@@ -96,6 +108,9 @@ bug fix
 = 2.3 =
 Additional features
 
+= 2.4 =
+Localization Ready
+
 == Changelog ==
 
 = 1.0 =
@@ -130,3 +145,6 @@ bug fix
 
 = 2.3 =
 Additional features
+
+= 2.4 =
+Localization Ready
