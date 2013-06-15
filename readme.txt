@@ -4,7 +4,7 @@ Donate link: http://www.trottyzone.com/donation/
 Tags: woocommerce, wc, wc checkout settings, remove checkout fields, plugin, checkout page, manager, checkout field, checkout manager,plugin for plugin, paypal, payment,require, required remove, woocommerce checkout manager, checkout field
 Requires at least: 3.0
 Tested up to: 3.5.1
-Stable tag: 2.4
+Stable tag: 2.5
 License: GPLv2 or later
 
 Manages WooCommerce Checkout
@@ -54,8 +54,8 @@ The new fields that you created, the data that the customer entered are printed 
 * DUTCH
 * FINNISH
 * FRENCH
-* Norwegian
-* Polish
+* NORWEGIAN
+* POLISH
 
 == Installation ==
 
@@ -111,6 +111,9 @@ Additional features
 = 2.4 =
 Localization Ready
 
+= 2.5 =
+Added features for shipping
+
 == Changelog ==
 
 = 1.0 =
@@ -148,3 +151,6 @@ Additional features
 
 = 2.4 =
 Localization Ready
+
+= 2.5 =
+Added features for shipping
