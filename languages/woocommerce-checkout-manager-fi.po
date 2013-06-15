@@ -1,0 +1,184 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: woocommerce-checkout-manager\n"
+"POT-Creation-Date: 2013-06-12 18:39-0400\n"
+"PO-Revision-Date: 2013-06-12 20:10-0400\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: _;__;_e;esc_attr_e\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: woocommerce-checkout-manager.php:44
+msgid "Example Label"
+msgstr "esimerkiksi Label"
+
+#: woocommerce-checkout-manager.php:45
+msgid "Example placeholder"
+msgstr "Esimerkki paikkamerkki"
+
+#: woocommerce-checkout-manager.php:79 woocommerce-checkout-manager.php:129
+msgid "WooCommerce Checkout Manager"
+msgstr "WooCommerce Kassalle Manager"
+
+#: woocommerce-checkout-manager.php:94
+msgid "You do not have sufficient permissions to access this page."
+msgstr "Sinulla ei ole tarvittavia oikeuksia käyttää tätä sivua."
+
+#: woocommerce-checkout-manager.php:112
+msgid "settings saved."
+msgstr "asetukset tallennetaan."
+
+#: woocommerce-checkout-manager.php:159 woocommerce-checkout-manager.php:166
+#: woocommerce-checkout-manager.php:316
+msgid "Field Name"
+msgstr "kentän nimi"
+
+#: woocommerce-checkout-manager.php:160 woocommerce-checkout-manager.php:167
+msgid "Remove Field Entirely"
+msgstr "Poista Field Täysin"
+
+#: woocommerce-checkout-manager.php:161 woocommerce-checkout-manager.php:168
+msgid "Remove Required Attribute"
+msgstr "Poista Pakollinen ominaisuus"
+
+#: woocommerce-checkout-manager.php:175
+msgid "Select All Check boxes in this Column"
+msgstr "Valitse kaikki valinnat tässä sarakkeessa"
+
+#: woocommerce-checkout-manager.php:185
+msgid "First Name"
+msgstr "Etunimi"
+
+#: woocommerce-checkout-manager.php:196
+msgid "Last Name"
+msgstr "Sukunimi"
+
+#: woocommerce-checkout-manager.php:205
+msgid "Company"
+msgstr "yritys"
+
+#: woocommerce-checkout-manager.php:214
+msgid "Address 1"
+msgstr "osoite 1"
+
+#: woocommerce-checkout-manager.php:223
+msgid "Address 2"
+msgstr "osoite 2"
+
+#: woocommerce-checkout-manager.php:232
+msgid "City"
+msgstr "kaupunki"
+
+#: woocommerce-checkout-manager.php:241
+msgid "Postal Code"
+msgstr "postinumero"
+
+#: woocommerce-checkout-manager.php:250
+msgid "Country"
+msgstr "maa"
+
+#: woocommerce-checkout-manager.php:259
+msgid "State"
+msgstr "valtio"
+
+#: woocommerce-checkout-manager.php:268
+msgid "Phone"
+msgstr "puhelin"
+
+#: woocommerce-checkout-manager.php:277
+msgid "Email"
+msgstr "Sähköposti"
+
+#: woocommerce-checkout-manager.php:286
+msgid "Order Comments"
+msgstr "Tilaa Kommentit"
+
+#: woocommerce-checkout-manager.php:296
+msgid "Deselect Check boxes in this Column"
+msgstr "Poista Valintaruudut tässä sarakkeessa"
+
+#: woocommerce-checkout-manager.php:305
+msgid "Save Changes"
+msgstr "Tallenna muutokset"
+
+#: woocommerce-checkout-manager.php:307
+msgid "Checkout Page Section"
+msgstr "Kassalle sivuosioraportiksi"
+
+#: woocommerce-checkout-manager.php:311
+msgid "Receipt Section"
+msgstr "kuitti §"
+
+#: woocommerce-checkout-manager.php:317
+msgid "New Value?"
+msgstr "Uusi arvo?"
+
+#: woocommerce-checkout-manager.php:325
+msgid "Footer Content: "
+msgstr "Footer sisältö:"
+
+#: woocommerce-checkout-manager.php:332
+msgid "Add New Field Section"
+msgstr "Lisää uusi kenttä §"
+
+#: woocommerce-checkout-manager.php:383 woocommerce-checkout-manager.php:408
+#: woocommerce-checkout-manager.php:432
+msgid "Change order"
+msgstr "Vaihda järjestys"
+
+#: woocommerce-checkout-manager.php:384
+msgid "Label"
+msgstr "etiketti"
+
+#: woocommerce-checkout-manager.php:385
+msgid "Placeholder"
+msgstr "paikkamerkki"
+
+#: woocommerce-checkout-manager.php:386
+msgid "Required Attribute"
+msgstr "Vaadittu ominaisuus"
+
+#: woocommerce-checkout-manager.php:387
+msgid "Remove button"
+msgstr "Poista-painike"
+
+#: woocommerce-checkout-manager.php:422 woocommerce-checkout-manager.php:445
+msgid "Remove Field"
+msgstr "Poista kenttä"
+
+#: woocommerce-checkout-manager.php:436
+msgid "Label of the New Field"
+msgstr "Label Uusi kenttä"
+
+#: woocommerce-checkout-manager.php:439
+msgid "Placeholder - Preview of Data to Input"
+msgstr "placeholder - Preview of Data to Input"
+
+#: woocommerce-checkout-manager.php:442
+msgid "Add/Remove Required Attribute"
+msgstr "Lisää / poista tarvittava ominaisuus"
+
+#: woocommerce-checkout-manager.php:453
+msgid "+ Add New Field"
+msgstr "+ Lisää uusi kenttä"
+
+#: woocommerce-checkout-manager.php:466
+msgid "Settings"
+msgstr ""
+
+#: woocommerce-checkout-manager.php:467
+msgid "Support"
+msgstr ""
+
+#: woocommerce-checkout-manager.php:792 woocommerce-checkout-manager.php:844
+msgid "Additional information"
+msgstr "Lisätietoja"
+
+#: woocommerce-checkout-manager.php:811
+msgid "is a required field"
+msgstr "on pakollinen kenttä"
