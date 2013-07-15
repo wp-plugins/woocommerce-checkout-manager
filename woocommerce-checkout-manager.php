@@ -133,6 +133,7 @@ update_option( 'wccs_settings', $options );
     ?>
 
 <div style="float:right;">
+Please give generously for this plugin :) <a href="http://www.trottyzone.com/donate/">Find out why</a>
 <form style="margin-bottom:-10px;" action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">
 <input type="hidden" name="hosted_button_id" value="5TFAJB5686N8L">
