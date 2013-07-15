@@ -4,7 +4,7 @@ Donate link: http://www.trottyzone.com/donation/
 Tags: woocommerce, wc, wc checkout settings, remove checkout fields, woothemes, woo commerce, links, shipping, order, fields, plugin, checkout page, manager, checkout field, checkout manager,plugin for plugin, paypal, payment,require, required remove, woocommerce checkout manager, checkout field, checkout, checkout woocommerce
 Requires at least: 3.0
 Tested up to: 3.5.1
-Stable tag: 2.6
+Stable tag: 2.7
 License: GPLv2 or later
 
 Manages WooCommerce Checkout
@@ -57,6 +57,9 @@ The new fields that you created, the data that the customer entered are printed 
 * NORWEGIAN
 * POLISH
 
+= Important Note =
+You must include the abbreviation for the custom field WITHOUT spaces.
+
 == Installation ==
 
 1. Upload the entire 'woocommerce-checkout-manager' folder to the '/wp-content/plugins/' directory
@@ -66,6 +69,9 @@ The new fields that you created, the data that the customer entered are printed 
 == Frequently Asked Questions ==
 Ask your questions on the plugin author <a href="http://www.trottyzone.com/forums/forum/website-support/">forum</a>
 You will get personal help.
+
+= Important Note =
+You must include the abbreviation for the custom field WITHOUT spaces.
 
 == Screenshots ==
 
@@ -117,6 +123,9 @@ Added features for shipping
 = 2.6 =
 remove fields for shipping
 
+= 2.7 =
+required attribute bug fix and included translations
+
 == Changelog ==
 
 = 1.0 =
@@ -160,3 +169,6 @@ Added features for shipping
 
 = 2.6 =
 remove fields for shipping
+
+= 2.7 =
+required attribute bug fix and included translations
