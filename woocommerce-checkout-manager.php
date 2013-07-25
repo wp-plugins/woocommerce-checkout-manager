@@ -846,3 +846,18 @@ $options = get_option( 'wccs_settings' );
 return $input;
 
 }
+function wccs_custom_checkout_details( $order_id ) {
+$options = get_option( 'wccs_settings' );
+if ( count( $options['buttons'] ) > 0 ) : 
+					$i = 0;
+					// Loop through each button
+					foreach ( $options['buttons'] as $btn ) :
+						$label = ( isset( $btn['label'] ) ) ? $btn['label'] : '';
+$order_object = new WC_Order( $order_id );
+echo '<h2>Additional information</h2>';
+echo ''.$btn['label'].' : '.get_post_meta( $order_id->id , ''.$btn['label'].'', true).'';
+$i++;
+					endforeach;
+endif;
+}
+add_action('woocommerce_order_details_after_order_table', 'wccs_custom_checkout_details');
