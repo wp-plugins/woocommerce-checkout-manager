@@ -51,7 +51,7 @@ The new fields that you created, the data that the customer entered are printed 
 = Important Notes =
 1. You must include the abbreviation for the custom field WITHOUT spaces.
 2. <a href="http://www.trottyzone.com/donate/">Donation</a> for this great plugin you love.
-3. Troubleshooting and Customization can found at the <a href=http://www.trottyzone.com/forums/forum/website-support/>Plugin Forum.</a> Just post your support topics.
+3. Troubleshooting and Customization can found at the <a href="http://www.trottyzone.com/forums/forum/website-support/">Plugin Forum.</a> Just post your support topics.
 
 Please Contact the author <a href="http://www.trottyzone.com/contact-us/">here</a> for these options below.
 4. Contribution of code to this plugin.
