@@ -3,16 +3,14 @@ Contributors: Emark
 Donate link: http://www.trottyzone.com/donation/
 Tags: woocommerce, wc, wc checkout settings, remove checkout fields, woothemes, woo commerce, links, shipping, order, fields, plugin, checkout page, manager, checkout field, checkout manager,plugin for plugin, paypal, payment,require, required remove, woocommerce checkout manager, checkout field, checkout, checkout woocommerce
 Requires at least: 3.0
-Tested up to: 3.5.1
-Stable tag: 2.7
+Tested up to: 3.5.3
+Stable tag: 2.8
 License: GPLv2 or later
 
 Manages WooCommerce Checkout
 
 
 == Description ==
-
-Localization Initialized...Ready!!!
 
 1. This plugin targets the WooCommerce Checkout Page and WooCommerce Checkout Receipt. For each and every field you can remove it totally or the required attribute. Removing the required attribute renders the field completely optional for the customer to fill out.
 
@@ -42,11 +40,22 @@ Request for adding new fields to the checkout page has been introduced. All you 
 Add or Remove required attribute from each new field created.
 
 = Re-order fields =
-You can now re-order the fields on the checkout page from the options panel.
+Re-order the fields on the checkout page from the Administration Menu by simple drag and drop of each new field created.
+
+Goto Control Panel >> Settings >> WooCommerce Checkout Manager
+
 
 = Custom fields data are added to the order summary & receipt =
 The new fields that you created, the data that the customer entered are printed on the order summary & email receipt under "Additional information."
 
+= Important Notes =
+1. You must include the abbreviation for the custom field WITHOUT spaces.
+2. <a href="http://www.trottyzone.com/donate/">Donation</a> for this great plugin you love.
+3. Troubleshooting and Customization can found at the <a href=http://www.trottyzone.com/forums/forum/website-support/>Plugin Forum.</a> Just post your support topics.
+
+Please Contact the author <a href="http://www.trottyzone.com/contact-us/">here</a> for these options below.
+4. Contribution of code to this plugin.
+5. This plugin is localized, translations can be done.
 
 = Included Translations =
 * SPANISH
@@ -57,8 +66,6 @@ The new fields that you created, the data that the customer entered are printed 
 * NORWEGIAN
 * POLISH
 
-= Important Note =
-You must include the abbreviation for the custom field WITHOUT spaces.
 
 == Installation ==
 
@@ -126,6 +133,9 @@ remove fields for shipping
 = 2.7 =
 required attribute bug fix and included translations
 
+= 2.8 =
+Bug fixes
+
 == Changelog ==
 
 = 1.0 =
@@ -172,3 +182,6 @@ remove fields for shipping
 
 = 2.7 =
 required attribute bug fix and included translations
+
+= 2.8 =
+Bug fixes
