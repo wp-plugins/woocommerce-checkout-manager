@@ -4,7 +4,7 @@ Donate link: http://www.trottyzone.com/donation/
 Tags: woocommerce, wc, wc checkout settings, remove checkout fields, plugin, checkout page, manager, checkout field, checkout manager,plugin for plugin, paypal, payment,require, required remove, woocommerce checkout manager, checkout field
 Requires at least: 3.0
 Tested up to: 3.5.1
-Stable tag: 2.1
+Stable tag: 2.2
 License: GPLv2 or later
 
 Manages WooCommerce Checkout

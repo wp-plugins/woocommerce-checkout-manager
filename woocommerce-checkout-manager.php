@@ -4,7 +4,7 @@
 Plugin Name: WooCommerce Checkout Manager
 Plugin URI: http://www.trottyzone.com/product/woocommerce-checkout-manager
 Description: Manages WooCommerce Checkout fields
-Version: 2.1
+Version: 2.2
 Author: Ephrain Marchan
 Author URI: http://www.trottyzone.com
 License: GPLv2 or later
@@ -78,7 +78,7 @@ function wccs_admin_menu() {
 }
 
 function wccs_register_setting() {	
-register_setting( 'wccs_options', 'wccs_settings' );
+register_setting( 'wccs_options', 'wccs_settings', 'wccs_options_validate' );
 }
 
 
@@ -397,7 +397,7 @@ width: 100%;
 
 
 <?php
-                	if ( !empty ( $options['buttons'] ) ) :
+                	if ( isset ( $options['buttons'] ) ) :
 
 					// Loop through all the buttons
                 	for ( $i = 0; $i < count( $options['buttons'] ); $i++ ) :
@@ -424,6 +424,7 @@ width: 100%;
 
 <td><input name="wccs_settings[buttons][<?php echo $i; ?>][checkbox]" type="checkbox" value="true" <?php if (  true == ($options['buttons'][$i][checkbox])) echo "checked='checked'"; ?> /></td>
 
+
 <td class="wccs-remove"><a class="wccs-remove-button" href="javascript:;" title="<?php esc_attr_e( 'Remove Field' , 'woocommerce-checkout-manager' ); ?>">&times;</a></td>
    </tr>
 
@@ -445,6 +446,7 @@ width: 100%;
 
    <td><input name="wccs_settings[buttons][<?php echo $i; ?>][checkbox]" type="checkbox" 
     title="<?php esc_attr_e( 'Add/Remove Required Attribute', 'woocommerce-checkout-manager' ); ?>" value=" " /></td>
+
 
 <td class="wccs-remove"><a class="wccs-remove-button" href="javascript:;" title="<?php esc_attr_e( 'Remove Field' , 'woocommerce-checkout-manager' ); ?>">&times;</a></td>
 
@@ -809,14 +811,38 @@ if ( count( $options['buttons'] ) > 0 ) :
 						$label = ( isset( $btn['label'] ) ) ? $btn['label'] : '';
     global $woocommerce;
 
-if ( ! empty( $btn['label'] ) )
+if ( (!$_POST[ ''.$btn['label'].'' ] )  && (true == ($btn['checkbox']) ) )
 
-    // Check if set, if its not set add an error.
-    if (true == $btn['checkbox'])
-         $woocommerce->add_error( __('<strong>'.$btn['label'].'</strong> is a required field.') );
+
+$woocommerce->add_error( __('<strong>'.$btn['label'].'</strong> is a required field.') );
+
+
 
 $i++;
 					endforeach;
+
+
 endif;
 }
 add_action('woocommerce_checkout_process', 'wccs_custom_checkout_field_process');
+
+
+function wccs_options_validate( $input ) {
+
+$options = get_option( 'wccs_settings' );
+
+
+	// Don't save empty inputs
+	foreach( $input['buttons'] as $i => $btn ) :
+
+		if ( empty( $btn['label'] ) )
+			unset( $input['buttons'][$i], $btn );
+
+	endforeach;
+
+	$input['buttons'] = array_values( $input['buttons'] );
+
+
+return $input;
+
+}
