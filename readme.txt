@@ -4,7 +4,7 @@ Donate link: http://www.trottyzone.com/donation/
 Tags: woocommerce, wc, wc checkout settings, remove checkout fields, woothemes, woo commerce, links, shipping, order, fields, plugin, checkout page, manager, checkout field, checkout manager,plugin for plugin, paypal, payment,require, required remove, woocommerce checkout manager, checkout field, checkout, checkout woocommerce
 Requires at least: 3.0
 Tested up to: 3.5.3
-Stable tag: 2.8
+Stable tag: 2.9
 License: GPLv2 or later
 
 Manages WooCommerce Checkout
@@ -12,6 +12,14 @@ Manages WooCommerce Checkout
 
 == Description ==
 
+= WooCommerce Checkout Manager Pro =
+Additional features:
+1. Add New Field button + Sorting works with all WordPress Installs
+2. Rename Label and Placeholder for First Name, Last Name, Company, Order Notes / Comments etc.
+
+<a href="http://www.trottyzone.com/product/woocommerce-checkout-manager-pro/">>>Download Now<<</a>
+
+= WooCommerce Checkout Manager =
 1. This plugin targets the WooCommerce Checkout Page and WooCommerce Checkout Receipt. For each and every field you can remove it totally or the required attribute. Removing the required attribute renders the field completely optional for the customer to fill out.
 
 2. Their is also an option in this plugin where you can change the message the customer gets in the footer area of the receipt.
@@ -136,6 +144,9 @@ required attribute bug fix and included translations
 = 2.8 =
 Bug fixes
 
+= 2.9 =
+Bug fixes
+
 == Changelog ==
 
 = 1.0 =
@@ -184,4 +195,7 @@ remove fields for shipping
 required attribute bug fix and included translations
 
 = 2.8 =
+Bug fixes
+
+= 2.9 =
 Bug fixes
