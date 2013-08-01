@@ -22,6 +22,17 @@ Manages WooCommerce Checkout
 
 5. The new fields that you created their data are added to the Order Summary & Receipt under "Additional information." 
 
+= Notes* =
+1. You must include the abbreviation for the custom field WITHOUT spaces.
+2. <a href="http://www.trottyzone.com/donate/">Donation</a> for this great plugin you love and also to keep continued development.
+3. Troubleshooting and Customization can found at the <a href="http://www.trottyzone.com/forums/forum/website-support/">Plugin Forum</a>. Just post your support topics.
+ 
+Please Contact the author <a href="http://www.trottyzone.com/contact-us/">here</a> for these options below.
+
+4. Contribution of code to this plugin.
+5. This plugin is localized, translations can be done.
+
+= --- More feature details --- =
 = Removing fields =
 Removing fields became easier now, all you have to do is tick which box or which boxes that you do not want to show on the checkout page and it will be removed.
 Also you have the ability to not just remove the field alone but also remove the required (asterisk) attribute from the field. Leaving the field optional for the customer to fill out.
@@ -62,16 +73,6 @@ The new fields that you created, the data that the customer entered are printed 
    Company
 
 3. Rename Label for Billing and Shipping Field for Country Field.
-
-= Important Notes =
-1. You must include the abbreviation for the custom field WITHOUT spaces.
-2. <a href="http://www.trottyzone.com/donate/">Donation</a> for this great plugin you love.
-3. Troubleshooting and Customization can found at the <a href="http://www.trottyzone.com/forums/forum/website-support/">Plugin Forum</a>. Just post your support topics.
- 
-Please Contact the author <a href="http://www.trottyzone.com/contact-us/">here</a> for these options below.
-4. Contribution of code to this plugin. 
-5. This plugin is 5. localized, translations can be done.
-
 
 = Included Translations =
 * SPANISH
