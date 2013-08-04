@@ -3,8 +3,8 @@ Contributors: Emark
 Donate link: http://www.trottyzone.com/donation/
 Tags: woocommerce, wc, wc checkout settings, remove checkout fields, woothemes, woo commerce, links, shipping, order, fields, plugin, checkout page, manager, checkout field, checkout manager,plugin for plugin, paypal, payment,require, required remove, woocommerce checkout manager, checkout field, checkout, checkout woocommerce
 Requires at least: 3.0
-Tested up to: 3.5.3
-Stable tag: 3.1
+Tested up to: 3.6
+Stable tag: 3.2
 License: GPLv2 or later
 
 Manages WooCommerce Checkout
@@ -162,6 +162,8 @@ Javascript fix and rename fields inserted
 = 3.1 =
 bug fix
 
+= 3.2 =
+code review
 
 == Changelog ==
 
@@ -221,3 +223,6 @@ Javascript fix and rename fields inserted
 
 = 3.1 =
 bug fix
+
+= 3.2 =
+code review
