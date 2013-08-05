@@ -4,7 +4,7 @@ Donate link: http://www.trottyzone.com/donation/
 Tags: woocommerce, wc, wc checkout settings, remove checkout fields, woothemes, woo commerce, links, shipping, order, fields, plugin, checkout page, manager, checkout field, checkout manager,plugin for plugin, paypal, payment,require, required remove, woocommerce checkout manager, checkout field, checkout, checkout woocommerce
 Requires at least: 3.0
 Tested up to: 3.6
-Stable tag: 3.2
+Stable tag: 3.3
 License: GPLv2 or later
 
 Manages WooCommerce Checkout
@@ -21,6 +21,8 @@ Manages WooCommerce Checkout
 4. Add or Remove the required attribute from each new field created.
 
 5. The new fields that you created their data are added to the Order Summary & Receipt under "Additional information." 
+
+6. Choose to disable the fields title name Additional information on the checkout page and/or checkout details (summary) & Receipt.
 
 = Notes* =
 1. You must include the abbreviation for the custom field WITHOUT spaces.
@@ -73,6 +75,10 @@ The new fields that you created, the data that the customer entered are printed 
    Company
 
 3. Rename Label for Billing and Shipping Field for Country Field.
+
+= Disable Addtional information =
+
+Two checkboxes are located above "Add New Field Section" one to remove the title for Checkout Page and other to remove it on the checkout details and receipt.
 
 = Included Translations =
 * SPANISH
@@ -165,6 +171,9 @@ bug fix
 = 3.2 =
 code review
 
+= 3.3 =
+fields positioning, fixed.
+
 == Changelog ==
 
 = 1.0 =
@@ -226,3 +235,6 @@ bug fix
 
 = 3.2 =
 code review
+
+= 3.3 =
+fields positioning, fixed.
