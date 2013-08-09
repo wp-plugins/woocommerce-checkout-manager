@@ -4,7 +4,7 @@ Donate link: http://www.trottyzone.com/donation/
 Tags: woocommerce, wc, wc checkout settings, remove checkout fields, woothemes, woo commerce, links, shipping, order, fields, plugin, checkout page, manager, checkout field, checkout manager,plugin for plugin, paypal, payment,require, required remove, woocommerce checkout manager, checkout field, checkout, checkout woocommerce
 Requires at least: 3.0
 Tested up to: 3.6
-Stable tag: 3.4
+Stable tag: 3.5
 License: GPLv2 or later
 
 Manages WooCommerce Checkout
@@ -23,6 +23,8 @@ Manages WooCommerce Checkout
 5. The new fields that you created their data are added to the Order Summary & Receipt under "Additional information." 
 
 6. Choose to disable the fields title name Additional information on the checkout page and/or checkout details (summary) & Receipt.
+
+7. You can choose between text or date fields to be inserted on checkout. *
 
 = Notes* =
 1. You must include the abbreviation for the custom field WITHOUT spaces.
@@ -48,6 +50,10 @@ After the order is cleared, you the manager of the product gets a receipt and al
 Request for adding new fields to the checkout page has been introduced. All you have to do is click the "Add New field" button and a drop down box will show allowing you to set the new field name which is "Label" and to set the example in the field which is "Placeholder."
 
 * Placeholder allows the customer, the ability to get the feel of what exactly is this field about. 
+
+= Text and Date* =
+Includes a handy drop down box with two options, to select either text or date field.
+The date field, has a great design, where when you click the field for date, a pop up calender displays, where you can choose a number of dates, skip between months by clicking the arrows, clicking the day you would like inside of the month you selected, also it shows you the current date! Awesome isn't it.
 
 = Control each field Required Attribute =
 Add or Remove required attribute from each new field created.
@@ -177,6 +183,9 @@ fields positioning, fixed.
 = 3.4 =
 bug fixed.
 
+= 3.5 =
+Select date function, included.
+
 == Changelog ==
 
 = 1.0 =
@@ -244,3 +253,6 @@ fields positioning, fixed.
 
 = 3.4 =
 bug fixed.
+
+= 3.5 =
+Select date function, included.
