@@ -4,7 +4,7 @@ Donate link: http://www.trottyzone.com/donation/
 Tags: woocommerce, wc, wc checkout settings, remove checkout fields, woothemes, woo commerce, links, shipping, order, fields, plugin, checkout page, manager, checkout field, checkout manager,plugin for plugin, paypal, payment,require, required remove, woocommerce checkout manager, checkout field, checkout, checkout woocommerce
 Requires at least: 3.0
 Tested up to: 3.6
-Stable tag: 3.5
+Stable tag: 3.5.1
 License: GPLv2 or later
 
 Manages WooCommerce Checkout
@@ -54,6 +54,12 @@ Request for adding new fields to the checkout page has been introduced. All you 
 = Text and Date* =
 Includes a handy drop down box with two options, to select either text or date field.
 The date field, has a great design, where when you click the field for date, a pop up calender displays, where you can choose a number of dates, skip between months by clicking the arrows, clicking the day you would like inside of the month you selected, also it shows you the current date! Awesome isn't it.
+
+= Select Options*** =
+Insert Up to, two(2) options of your choosing for the customer. Better than a checkbox because you can insert "Yes" or "No", "Correct" or "Wrong" etc. to be the option displayed for the customer.
+
+= Checkbox* =
+Prototype - In the order email it gives either "1" or "0" as checked answer. I don't know if you would have use for this, but it's their :)
 
 = Control each field Required Attribute =
 Add or Remove required attribute from each new field created.
@@ -186,6 +192,9 @@ bug fixed.
 = 3.5 =
 Select date function, included.
 
+= 3.5.1 =
+Select option and checkbox functions, included.
+
 == Changelog ==
 
 = 1.0 =
@@ -256,3 +265,6 @@ bug fixed.
 
 = 3.5 =
 Select date function, included.
+
+= 3.5.1 =
+Select option and checkbox functions, included.
