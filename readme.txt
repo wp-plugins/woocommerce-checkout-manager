@@ -12,6 +12,8 @@ Manages WooCommerce Checkout
 
 == Description ==
 
+Get <a href="http://www.trottyzone.com/product/woocommerce-checkout-manager/">Pro version</a> to Disable billing address fields for individual product/s. Great for selling both digital and tangible goods.
+
 1. This plugin targets the WooCommerce Checkout Page and WooCommerce Checkout Receipt. For each and every field you can remove it totally or the required attribute. Removing the required attribute renders the field completely optional for the customer to fill out.
 
 2. Their is also an option in this plugin where you can change the message the customer gets in the footer area of the receipt.
@@ -24,7 +26,7 @@ Manages WooCommerce Checkout
 
 6. Choose to disable the fields title name Additional information on the checkout page and/or checkout details (summary) & Receipt.
 
-7. You can choose between text or date fields to be inserted on checkout. *
+7. You can choose between Text, Date, Checkbox, Select Options fields to be inserted on checkout. *
 
 = Notes* =
 1. You must include the abbreviation for the custom field WITHOUT spaces.
