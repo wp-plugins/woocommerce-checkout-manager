@@ -4,7 +4,7 @@ Donate link: http://www.trottyzone.com/donation/
 Tags: woocommerce, wc, wc checkout settings, remove checkout fields, woothemes, woo commerce, links, shipping, order, fields, plugin, checkout page, manager, checkout field, checkout manager,plugin for plugin, paypal, payment,require, required remove, woocommerce checkout manager, checkout field, checkout, checkout woocommerce
 Requires at least: 3.0
 Tested up to: 3.6
-Stable tag: 3.5.1
+Stable tag: 3.5.2
 License: GPLv2 or later
 
 Manages WooCommerce Checkout
@@ -16,17 +16,15 @@ Get <a href="http://www.trottyzone.com/product/woocommerce-checkout-manager/">Pr
 
 1. This plugin targets the WooCommerce Checkout Page and WooCommerce Checkout Receipt. For each and every field you can remove it totally or the required attribute. Removing the required attribute renders the field completely optional for the customer to fill out.
 
-2. Their is also an option in this plugin where you can change the message the customer gets in the footer area of the receipt.
+2. You can also add more fields to the checkout page and re-order them as you wish.
 
-3. You can also add more fields to the checkout page and re-order them as you wish.
+3. Add or Remove the required attribute from each new field created.
 
-4. Add or Remove the required attribute from each new field created.
+4. The new fields that you created their data are added to the Order Summary & Receipt under "Additional information." 
 
-5. The new fields that you created their data are added to the Order Summary & Receipt under "Additional information." 
+5. Choose to disable the fields title name Additional information on the checkout page and/or checkout details (summary) & Receipt.
 
-6. Choose to disable the fields title name Additional information on the checkout page and/or checkout details (summary) & Receipt.
-
-7. You can choose between Text, Date, Checkbox, Select Options fields to be inserted on checkout. *
+6. You can choose between Text, Date, Checkbox, Select Options fields to be inserted on checkout. *
 
 = Notes* =
 1. You must include the abbreviation for the custom field WITHOUT spaces.
@@ -44,9 +42,6 @@ Removing fields became easier now, all you have to do is tick which box or which
 Also you have the ability to not just remove the field alone but also remove the required (asterisk) attribute from the field. Leaving the field optional for the customer to fill out.
 
 *Please Note that their is no need to tick both the remove field and remove required boxes.
-
-= Receipt =
-After the order is cleared, you the manager of the product gets a receipt and also the customer, now in the footer (which is the last thing someone sees on the receipt) you can customize that, and probably put your business address, or contact numbers, customer care numbers or even send best wishes and appreciation for the product they bought.
 
 = Add New fields function =
 Request for adding new fields to the checkout page has been introduced. All you have to do is click the "Add New field" button and a drop down box will show allowing you to set the new field name which is "Label" and to set the example in the field which is "Placeholder."
@@ -197,6 +192,9 @@ Select date function, included.
 = 3.5.1 =
 Select option and checkbox functions, included.
 
+= 3.5.2 =
+updating to standard.
+
 == Changelog ==
 
 = 1.0 =
@@ -270,3 +268,6 @@ Select date function, included.
 
 = 3.5.1 =
 Select option and checkbox functions, included.
+
+= 3.5.2 =
+updating to standard.
