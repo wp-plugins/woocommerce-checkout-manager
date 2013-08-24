@@ -4,7 +4,7 @@ Donate link: http://www.trottyzone.com/donation/
 Tags: woocommerce, wc, wc checkout settings, remove checkout fields, woothemes, woo commerce, links, shipping, order, fields, plugin, checkout page, manager, checkout field, checkout manager,plugin for plugin, paypal, payment,require, required remove, woocommerce checkout manager, checkout field, checkout, checkout woocommerce
 Requires at least: 3.0
 Tested up to: 3.6
-Stable tag: 3.5.3
+Stable tag: 3.5.4
 License: GPLv2 or later
 
 Manages WooCommerce Checkout
@@ -12,7 +12,10 @@ Manages WooCommerce Checkout
 
 == Description ==
 
-Get <a href="http://www.trottyzone.com/product/woocommerce-checkout-manager/">Pro version</a> with added extra features such as to Disable billing address fields for individual product or products (Great for selling both digital and tangible goods) and to add payment method used by customer to receipt.
+Get <a href="http://www.trottyzone.com/product/woocommerce-checkout-manager/">Pro version</a> for:
+1. = Billing address Control for Tangible and Digital Goods =
+2. = Display Additional information via Back-end =
+3. = Display Payment Method on Email and Back-end =
 
 1. This plugin targets the WooCommerce Checkout Page and WooCommerce Checkout Receipt. For each and every field you can remove it totally or the required attribute. Removing the required attribute renders the field completely optional for the customer to fill out.
 
@@ -198,6 +201,9 @@ updating to standard.
 = 3.5.3 =
 bug fix- force selection for option and minor fix.
 
+= 3.5.4 =
+Added feature.
+
 == Changelog ==
 
 = 1.0 =
@@ -277,3 +283,6 @@ updating to standard.
 
 = 3.5.3 =
 bug fix- force selection for option and minor fix.
+
+= 3.5.4 =
+Added feature.
