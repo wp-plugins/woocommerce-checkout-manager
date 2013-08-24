@@ -13,9 +13,15 @@ Manages WooCommerce Checkout
 == Description ==
 
 Get <a href="http://www.trottyzone.com/product/woocommerce-checkout-manager/">Pro version</a> for:
-1. = Billing address Control for Tangible and Digital Goods =
-2. = Display Additional information via Back-end =
-3. = Display Payment Method on Email and Back-end =
+
+1. Billing address Control for Tangible and Digital Goods
+
+2. Display Additional information via Back-end
+
+3. Display Payment Method on Email and Back-end 
+
+4. Add Notice above the billing and shipping fields + Add Notice above Order Summary (with cart totals etc) - on the checkout page.
+
 
 1. This plugin targets the WooCommerce Checkout Page and WooCommerce Checkout Receipt. For each and every field you can remove it totally or the required attribute. Removing the required attribute renders the field completely optional for the customer to fill out.
 
