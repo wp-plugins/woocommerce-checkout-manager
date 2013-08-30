@@ -31,8 +31,8 @@ Manages WooCommerce Checkout
 
 = Notes* =
 1. You must include the abbreviation for the custom field WITHOUT spaces.
-2. <a href="http://www.trottyzone.com/donate/">Donation</a> for this great plugin you love and also to keep continued development.
-3. Troubleshooting and Customization can found at the <a href="http://www.trottyzone.com/forums/forum/website-support/">Plugin Forum</a>. Just post your support topics.
+2. <a href="http://www.trottyzone.com/donation/">Donation</a> for this great plugin you love and also to keep continued development.
+3. Troubleshooting and Customization can found at the <a href="http://www.trottyzone.com/forums/forum/wordpress-plugins/">Plugin Forum</a>. Just post your support topics.
  
 Please Contact the author <a href="http://www.trottyzone.com/contact-us/">here</a> for these options below.
 
