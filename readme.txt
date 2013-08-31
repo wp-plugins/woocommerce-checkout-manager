@@ -25,9 +25,11 @@ Manages WooCommerce Checkout
 
 = Get <a href="http://www.trottyzone.com/product/woocommerce-checkout-manager/">Pro version</a> for: =
 1. Billing address Control for Tangible and Digital Goods
-2. Display Additional information via Back-end
-3. Display Payment Method on Email and Back-end 
-4. Add Notice above the billing and shipping fields + Add Notice above Order Summary (with cart totals etc) - on the checkout page.
+2. Textarea field option.
+3. Display Additional information via Back-end
+4. Display Payment Method on Email and Back-end 
+5. Add Notice above the billing and shipping fields + Add Notice above Order Summary (with cart totals etc) - on the checkout page.
+6. Change select option first title (Force title)
 
 = Notes* =
 1. You must include the abbreviation for the custom field WITHOUT spaces.
