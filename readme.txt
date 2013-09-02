@@ -30,6 +30,7 @@ Manages WooCommerce Checkout
 4. Display Payment Method on Email and Back-end 
 5. Add Notice above the billing and shipping fields + Add Notice above Order Summary (with cart totals etc) - on the checkout page.
 6. Change select option first title (Force title)
+7. Extended select options allowing you to <strong>add more</strong> than just two(2) options, you can add up to <strong>TEN (10) options</strong>
 
 = Notes* =
 1. You must include the abbreviation for the custom field WITHOUT spaces.
