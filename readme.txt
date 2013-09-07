@@ -4,7 +4,7 @@ Donate link: http://www.trottyzone.com/donation/
 Tags: woocommerce, wc, wc checkout settings, remove checkout fields, woothemes, woo commerce, links, shipping, order, fields, plugin, checkout page, manager, checkout field, checkout manager,plugin for plugin, paypal, payment,require, required remove, woocommerce checkout manager, checkout field, checkout, checkout woocommerce
 Requires at least: 3.0
 Tested up to: 3.6
-Stable tag: 3.5.4
+Stable tag: 3.5.5
 License: GPLv2 or later
 
 Manages WooCommerce Checkout
@@ -25,7 +25,7 @@ Manages WooCommerce Checkout
 
 = Get <a href="http://www.trottyzone.com/product/woocommerce-checkout-manager/">Pro version</a> for: =
 1. Billing address Control for Tangible and Digital Goods
-2. Textarea field option.
+2. Textarea field added and <strong>(1,0) is removed</strong> from Checkbox (You can insert your own two values)
 3. Display Additional information via Back-end
 4. Display Payment Method on Email and Back-end 
 5. Add Notice above the billing and shipping fields + Add Notice above Order Summary (with cart totals etc) - on the checkout page.
@@ -207,6 +207,10 @@ bug fix- force selection for option and minor fix.
 = 3.5.4 =
 Added feature.
 
+= 3.5.5 =
+Translations updated
+
+
 == Changelog ==
 
 = 1.0 =
@@ -289,3 +293,6 @@ bug fix- force selection for option and minor fix.
 
 = 3.5.4 =
 Added feature.
+
+= 3.5.5 =
+Translations updated
