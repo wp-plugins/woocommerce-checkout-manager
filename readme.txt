@@ -40,7 +40,7 @@ This is a WooCommerce extension plugin that targets the checkout processes in wh
 
 Help translate? by sending your translation to the language you desire via <a href="http://www.trottyzone.com/contact-us/">E-mail</a> and we will include.
 
-<h4><a href="http://www.trottyzone.com/product/woocommerce-checkout-manager/">Pro</a> Features</h4> - displaying extended
+<h4><a href="http://www.trottyzone.com/product/woocommerce-checkout-manager/">PRO VERSION</a> FEATURES</h4> - displaying extended
 
 
 1. <strong>Added new fields</strong> to the checkout page can be seen on Order Details (back-end).
@@ -54,7 +54,7 @@ Help translate? by sending your translation to the language you desire via <a hr
 <strong>- Check Box!   </strong>        (Insert your custom own custom two options) eg. Mom or Dad <br>
 <strong>- Select Options</strong>      (Insert up to ten (10) options)<br>
 <strong>- Time Picker  </strong>       ( hr:min ) eg. 06:00 PM <br>
-<strong>- *** Text/ Html Swapper ***</strong>  (Swaps text and html) eg. "Billing Address" to "Billing Form" // You will want this!<br>
+<strong>- *** Text/ Html Swapper ***</strong>  (Swaps words, text, html)
 <strong>- Color Picker</strong> 	      (Popular farbtastic!)<br>
 
 
