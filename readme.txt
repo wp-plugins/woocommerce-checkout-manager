@@ -54,7 +54,7 @@ Help translate? by sending your translation to the language you desire via <a hr
 <strong>- Check Box!   </strong>        (Insert your custom own custom two options) eg. Mom or Dad <br>
 <strong>- Select Options</strong>      (Insert up to ten (10) options)<br>
 <strong>- Time Picker  </strong>       ( hr:min ) eg. 06:00 PM <br>
-<strong>- *** Text/ Html Swapper ***</strong>  (Swaps words, text, html)
+<strong>- *** Text/ Html Swapper ***</strong>  (Swaps words, text, html)<br>
 <strong>- Color Picker</strong> 	      (Popular farbtastic!)<br>
 
 
