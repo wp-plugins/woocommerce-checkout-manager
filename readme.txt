@@ -11,89 +11,23 @@ Manages WooCommerce Checkout
 
 
 == Description ==
-1. This plugin targets the WooCommerce Checkout Page and WooCommerce Checkout Receipt. For each and every field you can remove it totally or the required attribute. Removing the required attribute renders the field completely optional for the customer to fill out.
 
-2. You can also add more fields to the checkout page and re-order them as you wish.
+This is a WooCommerce extension plugin that targets the checkout processes in which goods are bought. This plugin gives you a vast amount of capabilities to manage your products on checkout such as removing fields that you do not need, removing the required attribute rendering the field optional to customer or even perhaps adding more fields to the checkout page. This plugin certainly can.
 
-3. Add or Remove the required attribute from each new field created.
+<h2>Features</h2>
+<hr />
 
-4. The new fields that you created their data are added to the Order Summary & Receipt under "Additional information." 
+1. <strong>Add or Remove</strong> the required attribute from fields on checkout page. Removing the required attribute renders the field completely optional for the customer to fill out.
 
-5. Choose to disable the fields title name Additional information on the checkout page and/or checkout details (summary) & Receipt.
+2. <strong>Add new fields</strong> to the checkout page and re-order them as you wish via back-end. The fields will appear on Order Summary and Receipt so that you can view it later under “Additional information.”
 
-6. You can choose between Text, Date, Checkbox, Select Options fields to be inserted on checkout. *
+3. <strong>Enable / Disable "Additional information"</strong> name on the Order Summary and Receipt.
 
-= Get <a href="http://www.trottyzone.com/product/woocommerce-checkout-manager/">Pro version</a> for: =
-1. Billing address Control for Tangible and Digital Goods
-2. Textarea field added and <strong>(1,0) is removed</strong> from Checkbox (You can insert your own two values)
-3. Display Additional information via Back-end
-4. Display Payment Method on Email and Back-end 
-5. Add Notice above the billing and shipping fields + Add Notice above Order Summary (with cart totals etc) - on the checkout page.
-6. Change select option first title (Force title)
-7. Extended select options allowing you to <strong>add more</strong> than just two(2) options, you can add up to <strong>TEN (10) options</strong>
-
-= Notes* =
-1. You must include the abbreviation for the custom field WITHOUT spaces.
-2. <a href="http://www.trottyzone.com/donation/">Donation</a> for this great plugin you love and also to keep continued development.
-3. Troubleshooting and Customization can found at the <a href="http://www.trottyzone.com/forums/forum/wordpress-plugins/">Plugin Forum</a>. Just post your support topics.
- 
-Please Contact the author <a href="http://www.trottyzone.com/contact-us/">here</a> for these options below.
-
-4. Contribution of code to this plugin.
-5. This plugin is localized, translations can be done.
-
-= --- More feature details --- =
-= Removing fields =
-Removing fields became easier now, all you have to do is tick which box or which boxes that you do not want to show on the checkout page and it will be removed.
-Also you have the ability to not just remove the field alone but also remove the required (asterisk) attribute from the field. Leaving the field optional for the customer to fill out.
-
-*Please Note that their is no need to tick both the remove field and remove required boxes.
-
-= Add New fields function =
-Request for adding new fields to the checkout page has been introduced. All you have to do is click the "Add New field" button and a drop down box will show allowing you to set the new field name which is "Label" and to set the example in the field which is "Placeholder."
-
-* Placeholder allows the customer, the ability to get the feel of what exactly is this field about. 
-
-= Text and Date* =
-Includes a handy drop down box with two options, to select either text or date field.
-The date field, has a great design, where when you click the field for date, a pop up calender displays, where you can choose a number of dates, skip between months by clicking the arrows, clicking the day you would like inside of the month you selected, also it shows you the current date! Awesome isn't it.
-
-= Select Options*** =
-Insert Up to, two(2) options of your choosing for the customer. Better than a checkbox because you can insert "Yes" or "No", "Correct" or "Wrong" etc. to be the option displayed for the customer.
-
-= Checkbox* =
-Prototype - In the order email it gives either "1" or "0" as checked answer. I don't know if you would have use for this, but it's their :)
-
-= Control each field Required Attribute =
-Add or Remove required attribute from each new field created.
-
-= Re-order fields =
-Re-order the fields on the checkout page from the Administration Menu by simple drag and drop on top of each other, or below each other of each new field created.
-
-Goto Control Panel >> Settings >> WooCommerce Checkout Manager
-
-= Custom fields data are added to the order summary & receipt =
-The new fields that you created, the data that the customer entered are printed on the order summary & email receipt under "Additional information."
-
-= Rename Label and Placeholder = 
-1. Billing Fields:
-   First Name 
-   Last Name
-   Phone
-   Email
-   Company
-   Order Notes / Comments
-
-2. Shipping Fields:
-   First Name 
-   Last Name
-   Company
-
-3. Rename Label for Billing and Shipping Field for Country Field.
-
-= Disable Addtional information =
-
-Two checkboxes are located above "Add New Field Section" one to remove the title for Checkout Page and other to remove it on the checkout details and receipt.
+4. Create as much fields as you like, types are:
+<strong>- Text Input</strong>
+<strong>- Check Box   </strong>        (1 or 0) 
+<strong>- Select Options</strong>      (Insert up to two (2) options)
+<strong>- Date Picker </strong>        ( yy-mm-dd )
 
 = Included Translations =
 * SPANISH
@@ -104,6 +38,79 @@ Two checkboxes are located above "Add New Field Section" one to remove the title
 * NORWEGIAN
 * POLISH
 
+Help translate? by sending your translation to the language you desire via <a href="http://www.trottyzone.com/contact-us/">E-mail</a> and we will include.
+
+<h2><a href="http://www.trottyzone.com/product/woocommerce-checkout-manager/">Pro</a> Features</h2> (displaying extended)
+<hr />
+
+1. <strong>Added new fields</strong> to the checkout page can be seen on Order Details (back-end).
+
+2. <strong>Change the "Additional information"</strong> name.
+
+4. More Added fields types, more types are:
+<strong>- Text Area</strong>
+<strong>- Password</strong>
+<strong>- Radio Button</strong>        (Insert up to ten (10) options)
+<strong>- Check Box!   </strong>        (Insert your custom own custom two options) eg. Mom or Dad 
+<strong>- Select Options</strong>      (Insert up to ten (10) options)
+<strong>- Time Picker  </strong>       ( hr:min ) eg. 06:00 PM 
+<strong>- *** Text/ Html Swapper ***</strong>  (Swaps text and html) eg. "Billing Address" to "Billing Form" // You will want this!
+<strong>- Color Picker</strong> 	      (Popular farbtastic!)
+
+5. Text Swapper changes text displayed on the:
+<strong>- Checkout page</strong>
+<strong>- Order Summary</strong>
+<strong>- E-mail </strong>
+<strong>- Order Details</strong> (back-end) 
+<strong>- My Account Page</strong> for customers. 
+
+Same text string will be linked to all pages. Example, Changing the "Billing Address" to "Billing Form" will make any of those pages that displayed "Billing Address" will now display "Billing Form"
+
+Html can also be swapped like so:
+<pre>"<h3>Billing Address</h3>" to "<h2>Billing Form<code></h2>"</pre>
+
+5. Re-position the added fields to:
+<strong>- After Shipping Form</strong>
+<strong>- After Billing Form</strong>
+<strong>- After Order Notes</strong>
+
+5. <strong>Disable Billing Address fields</strong> or make them <strong>Optional</strong>!
+
+6. <strong>Display payment method</strong> used on Order Summary, Receipt and Order Details (back-end) so that you can view it later under “Additional information” or "Whatever name you choose!"
+
+7. Insert Up to two (2) Notices on checkout page. Positions are:
+<strong>- Before Customer Address Fields </strong>
+<strong>- Before Order Summary</strong>
+
+8. <strong>Add your own Custom CSS</strong> and make any field float right with one tick.
+
+<h2>WooCommerce Checkout Manager In depth</h2>
+<hr />
+* Please Note that their is no need to tick both the remove field and remove required boxesa and also you must fill out abbreviation so that "array" will not show. *
+
+= Removing fields =
+Removing fields became easier now, all you have to do is tick which box or which boxes that you do not want to show on the checkout page and it will be removed.
+Also you have the ability to not just remove the field alone but also remove the required (asterisk) attribute from the field. Leaving the field optional for the customer to fill out.
+
+= Add New fields  =
+Now that everyone finds that the default fields are not quite enough new fields, with this plugin you can solve that by adding new fields with different types. All you have to do is click the "Add New field" button and a drop down box will show allowing you to set the new field name which is "Label" and to set the example in the field which is "Placeholder" plus select different types of fields.
+
+= Text and Date Types =
+Text is a regular field type for inputing text, numbers, special characters etc.
+
+Another type is the date field, has a great design, where when you click the field for date, a pop up calender displays, where you can choose a number of dates, skip between months by clicking the arrows and choosing the day. Also it shows you the current date! Highlighted. Awesome isn't it?!
+
+= Select Options Type =
+One of the types of fields you can add is the options field, where you can insert your options to be selected on checkout as a drop down "select". 
+
+= Check Box =
+Checkbox another field type that Outputs specific value when ticked else fall back value. :)
+
+= Re-order fields =
+Re-order the fields on the checkout page from the Administration Menu by simple drag and drop on top of each other, or below each other of each new field created. This re-positions added new fields on the checkout.
+
+= Disable Addtional information Title =
+Two checkboxes are located above "Add New Field Section" one to remove the title for Checkout Page and other to remove it on the checkout details and receipt.
 
 == Installation ==
 
@@ -112,11 +119,7 @@ Two checkboxes are located above "Add New Field Section" one to remove the title
 3. Enjoy! ;)
 
 == Frequently Asked Questions ==
-Ask your questions on the plugin author <a href="http://www.trottyzone.com/forums/forum/website-support/">forum</a>
-You will get personal help.
-
-= Important Note =
-You must include the abbreviation for the custom field WITHOUT spaces.
+Should you have any questions or concerns please contact at the <a href="http://www.trottyzone.com/forums/forum/wordpress-plugins-and-hacks/">plugin's forum</a>
 
 == Screenshots ==
 
