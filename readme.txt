@@ -40,7 +40,7 @@ This is a WooCommerce extension plugin that targets the checkout processes in wh
 
 Help translate? by sending your translation to the language you desire via <a href="http://www.trottyzone.com/contact-us/">E-mail</a> and we will include.
 
-<h4><a href="http://www.trottyzone.com/product/woocommerce-checkout-manager/">Pro</a> Features</h4> (displaying extended)
+<h4><a href="http://www.trottyzone.com/product/woocommerce-checkout-manager/">Pro</a> Features</h4> - displaying extended
 
 
 1. <strong>Added new fields</strong> to the checkout page can be seen on Order Details (back-end).
@@ -48,44 +48,47 @@ Help translate? by sending your translation to the language you desire via <a hr
 2. <strong>Change the "Additional information"</strong> name.
 
 4. More Added fields types, more types are:
-<strong>- Text Area</strong>
-<strong>- Password</strong>
-<strong>- Radio Button</strong>        (Insert up to ten (10) options)
-<strong>- Check Box!   </strong>        (Insert your custom own custom two options) eg. Mom or Dad 
-<strong>- Select Options</strong>      (Insert up to ten (10) options)
-<strong>- Time Picker  </strong>       ( hr:min ) eg. 06:00 PM 
-<strong>- *** Text/ Html Swapper ***</strong>  (Swaps text and html) eg. "Billing Address" to "Billing Form" // You will want this!
-<strong>- Color Picker</strong> 	      (Popular farbtastic!)
+<strong>- Text Area</strong><br>
+<strong>- Password</strong><br>
+<strong>- Radio Button</strong>        (Insert up to ten (10) options)<br>
+<strong>- Check Box!   </strong>        (Insert your custom own custom two options) eg. Mom or Dad <br>
+<strong>- Select Options</strong>      (Insert up to ten (10) options)<br>
+<strong>- Time Picker  </strong>       ( hr:min ) eg. 06:00 PM <br>
+<strong>- *** Text/ Html Swapper ***</strong>  (Swaps text and html) eg. "Billing Address" to "Billing Form" // You will want this!<br>
+<strong>- Color Picker</strong> 	      (Popular farbtastic!)<br>
+
 
 5. Text Swapper changes text displayed on the:
-<strong>- Checkout page</strong>
-<strong>- Order Summary</strong>
-<strong>- E-mail </strong>
-<strong>- Order Details</strong> (back-end) 
-<strong>- My Account Page</strong> for customers. 
+<strong>- Checkout page</strong><br>
+<strong>- Order Summary</strong><br>
+<strong>- E-mail </strong><br>
+<strong>- Order Details</strong> (back-end) <br>
+<strong>- My Account Page</strong> for customers. <br>
+
 
 Same text string will be linked to all pages. Example, Changing the "Billing Address" to "Billing Form" will make any of those pages that displayed "Billing Address" will now display "Billing Form"
 
 Html can also be swapped like so:
-<pre>"<h3>Billing Address</h3>" to "<h2>Billing Form<code></h2>"</pre>
+<pre><code>"<h3>Billing Address</h3>" to "<h2>Billing Form<code></h2>"</code></pre>
 
 5. Re-position the added fields to:
-<strong>- After Shipping Form</strong>
-<strong>- After Billing Form</strong>
-<strong>- After Order Notes</strong>
+<strong>- After Shipping Form</strong><br>
+<strong>- After Billing Form</strong><br>
+<strong>- After Order Notes</strong><br>
 
 5. <strong>Disable Billing Address fields</strong> or make them <strong>Optional</strong>!
 
 6. <strong>Display payment method</strong> used on Order Summary, Receipt and Order Details (back-end) so that you can view it later under “Additional information” or "Whatever name you choose!"
 
 7. Insert Up to two (2) Notices on checkout page. Positions are:
-<strong>- Before Customer Address Fields </strong>
-<strong>- Before Order Summary</strong>
+<strong>- Before Customer Address Fields </strong><br>
+<strong>- Before Order Summary</strong><br>
 
 8. <strong>Add your own Custom CSS</strong> and make any field float right with one tick.
 
-<h2>WooCommerce Checkout Manager In depth</h2>
-<hr />
+<h4>More about WooCommerce Checkout Manager</h4>
+
+
 * Please Note that their is no need to tick both the remove field and remove required boxesa and also you must fill out abbreviation so that "array" will not show. *
 
 = Removing fields =
