@@ -24,19 +24,19 @@ This is a WooCommerce extension plugin that targets the checkout processes in wh
 3. <strong>Enable / Disable "Additional information"</strong> name on the Order Summary and Receipt.
 
 4. Create as much fields as you like, types are:
-<strong>- Text Input</strong>
-<strong>- Check Box   </strong>        (1 or 0) 
-<strong>- Select Options</strong>      (Insert up to two (2) options)
-<strong>- Date Picker </strong>        ( yy-mm-dd )
+<strong>- Text Input</strong><br>
+<strong>- Check Box   </strong>        (1 or 0) <br>
+<strong>- Select Options</strong>      (Insert up to two (2) options)<br>
+<strong>- Date Picker </strong>        ( yy-mm-dd )<br>
 
 <strong> Included Translations  </strong>
-* SPANISH
-* GERMAN
-* DUTCH
-* FINNISH
-* FRENCH
-* NORWEGIAN
-* POLISH
+* SPANISH<br>
+* GERMAN<br>
+* DUTCH<br>
+* FINNISH<br>
+* FRENCH<br>
+* NORWEGIAN<br>
+* POLISH<br>
 
 Help translate? by sending your translation to the language you desire via <a href="http://www.trottyzone.com/contact-us/">E-mail</a> and we will include.
 
@@ -69,7 +69,7 @@ Help translate? by sending your translation to the language you desire via <a hr
 Same text string will be linked to all pages. Example, Changing the "Billing Address" to "Billing Form" will make any of those pages that displayed "Billing Address" will now display "Billing Form"
 
 Html can also be swapped like so:
-<pre><code>"<h3>Billing Address</h3>" to "<h2>Billing Form<code></h2>"</code></pre>
+<pre><code>"<h3>Billing Address</h3>" to "<h2>Billing Form</h2>"</code></pre>
 
 5. Re-position the added fields to:
 <strong>- After Shipping Form</strong><br>
