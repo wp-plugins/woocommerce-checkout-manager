@@ -14,8 +14,8 @@ Manages WooCommerce Checkout
 
 This is a WooCommerce extension plugin that targets the checkout processes in which goods are bought. This plugin gives you a vast amount of capabilities to manage your products on checkout such as removing fields that you do not need, removing the required attribute rendering the field optional to customer or even perhaps adding more fields to the checkout page. This plugin certainly can.
 
-<h2>Features</h2>
-<hr />
+<h4>Features</h4>
+
 
 1. <strong>Add or Remove</strong> the required attribute from fields on checkout page. Removing the required attribute renders the field completely optional for the customer to fill out.
 
@@ -29,7 +29,7 @@ This is a WooCommerce extension plugin that targets the checkout processes in wh
 <strong>- Select Options</strong>      (Insert up to two (2) options)
 <strong>- Date Picker </strong>        ( yy-mm-dd )
 
-= Included Translations =
+<strong> Included Translations  </strong>
 * SPANISH
 * GERMAN
 * DUTCH
@@ -40,8 +40,8 @@ This is a WooCommerce extension plugin that targets the checkout processes in wh
 
 Help translate? by sending your translation to the language you desire via <a href="http://www.trottyzone.com/contact-us/">E-mail</a> and we will include.
 
-<h2><a href="http://www.trottyzone.com/product/woocommerce-checkout-manager/">Pro</a> Features</h2> (displaying extended)
-<hr />
+<h4><a href="http://www.trottyzone.com/product/woocommerce-checkout-manager/">Pro</a> Features</h4> (displaying extended)
+
 
 1. <strong>Added new fields</strong> to the checkout page can be seen on Order Details (back-end).
 
