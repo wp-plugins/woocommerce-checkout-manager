@@ -23,13 +23,13 @@ This is a WooCommerce extension plugin that targets the checkout processes in wh
 
 3. <strong>Enable / Disable "Additional information"</strong> name on the Order Summary and Receipt.
 
-4. Create as much fields as you like, types are:
+4. Create as much fields as you like, types are:<br>
 <strong>- Text Input</strong><br>
 <strong>- Check Box   </strong>        (1 or 0) <br>
 <strong>- Select Options</strong>      (Insert up to two (2) options)<br>
 <strong>- Date Picker </strong>        ( yy-mm-dd )<br>
 
-<strong> Included Translations  </strong>
+<strong> Included Translations  </strong><br>
 * SPANISH<br>
 * GERMAN<br>
 * DUTCH<br>
@@ -47,7 +47,7 @@ Help translate? by sending your translation to the language you desire via <a hr
 
 2. <strong>Change the "Additional information"</strong> name.
 
-4. More Added fields types, more types are:
+4. More Added fields types, more types are:<br>
 <strong>- Text Area</strong><br>
 <strong>- Password</strong><br>
 <strong>- Radio Button</strong>        (Insert up to ten (10) options)<br>
@@ -58,7 +58,7 @@ Help translate? by sending your translation to the language you desire via <a hr
 <strong>- Color Picker</strong> 	      (Popular farbtastic!)<br>
 
 
-5. Text Swapper changes text displayed on the:
+5. Text Swapper changes text displayed on the:<br>
 <strong>- Checkout page</strong><br>
 <strong>- Order Summary</strong><br>
 <strong>- E-mail </strong><br>
@@ -71,7 +71,7 @@ Same text string will be linked to all pages. Example, Changing the "Billing Add
 Html can also be swapped like so:
 <pre><code>"<h3>Billing Address</h3>" to "<h2>Billing Form</h2>"</code></pre>
 
-5. Re-position the added fields to:
+5. Re-position the added fields to:<br>
 <strong>- After Shipping Form</strong><br>
 <strong>- After Billing Form</strong><br>
 <strong>- After Order Notes</strong><br>
@@ -80,7 +80,7 @@ Html can also be swapped like so:
 
 6. <strong>Display payment method</strong> used on Order Summary, Receipt and Order Details (back-end) so that you can view it later under “Additional information” or "Whatever name you choose!"
 
-7. Insert Up to two (2) Notices on checkout page. Positions are:
+7. Insert Up to two (2) Notices on checkout page. Positions are:<br>
 <strong>- Before Customer Address Fields </strong><br>
 <strong>- Before Order Summary</strong><br>
 
