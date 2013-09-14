@@ -40,7 +40,7 @@ This is a WooCommerce extension plugin that targets the checkout processes in wh
 
 Help translate? by sending your translation to the language you desire via <a href="http://www.trottyzone.com/contact-us/">E-mail</a> and we will include.
 
-<h4><a href="http://www.trottyzone.com/product/woocommerce-checkout-manager/">PRO FEATURES</a></h4> - displaying extended
+<h4><a href="http://www.trottyzone.com/product/woocommerce-checkout-manager/">PRO VERSION</a> FEATURES</h4> - displaying extended
 
 
 1. <strong>Added new fields</strong> to the checkout page can be seen on Order Details (back-end).
