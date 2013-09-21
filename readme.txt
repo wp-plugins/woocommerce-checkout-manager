@@ -1,7 +1,7 @@
 ﻿=== WooCommerce Checkout Manager ===
 Contributors: Emark
 Donate link: http://www.trottyzone.com/donation/
-Tags: woocommerce, checkout settings, remove fields, shipping, order, fields, checkout page, checkout field, checkout manager, required remove, woocommerce checkout manager, checkout, checkout woocommerce, woocommerce checkout field editor, field editor, woocommerce custom checkout options , custom checkout, checkout option
+Tags: woocommerce, checkout settings, remove fields, shipping, order, fields, checkout page, checkout field, checkout manager, required remove, woocommerce checkout manager, checkout, checkout field editor, field editor, woocommerce custom checkout options , custom checkout, checkout option
 Requires at least: 3.0
 Tested up to: 3.6
 Stable tag: 3.5.5
@@ -15,7 +15,7 @@ Manages WooCommerce Checkout
 This is a WooCommerce extension plugin that targets the checkout processes in which goods are bought. This plugin gives you a vast amount of capabilities to manage your products on checkout such as removing fields that you do not need, removing the required attribute rendering the field optional to customer or even perhaps adding more fields to the checkout page. This plugin certainly can.
 
 
-= Features =
+= FEATURES =
 
 * Add or Remove the required asterisk from fields on checkout page. 
 
@@ -31,33 +31,35 @@ This is a WooCommerce extension plugin that targets the checkout processes in wh
 
 * Enable/ Disable "Additional information" name on the Order Summary and Receipt.
 
+* Checkout <a href="http://www.trottyzone.com/product/woocommerce-checkout-manager/">pro version</a> for more added and extensive features! Such as more fields types and text/ html swapper functionality.
 
-= Removing fields =
+= REMOVING FIELDS =
 Removing fields became easier now, all you have to do is tick which box or which boxes that you do not want to show on the checkout page and it will be removed.
 Also you have the ability to not just remove the field alone but also remove the required (asterisk) attribute from the field. Leaving the field optional for the customer to fill out.
 
-= Add New fields  =
-Now that everyone finds that the default fields are not quite enough new fields, with this plugin you can solve that by adding new fields with different types. All you have to do is click the "Add New field" button and a drop down box will show allowing you to set the new field name which is "Label" and to set the example in the field which is "Placeholder" plus select different types of fields.
+= ADD NEW FIELDS  =
+Now that everyone finds that the default fields are not just quite enough, with this plugin you can solve that by adding new fields with different types. All you have to do is click the "Add New field" button and a drop down box will show allowing you to set the new field name which is "Label" and to set the example in the field which is "Placeholder" plus select different types of fields.
 
-= Text and Date Types =
+= TEXT & DATE TYPES =
 Text is a regular field type for inputing text, numbers, special characters etc.
 
 Another type is the date field, has a great design, where when you click the field for date, a pop up calender displays, where you can choose a number of dates, skip between months by clicking the arrows and choosing the day. Also it shows you the current date! Highlighted. Awesome isn't it?!
 
-= Select Options Type =
+= SELECT OPTIONS TYPE =
 One of the types of fields you can add is the options field, where you can insert your options to be selected on checkout as a drop down "select". 
 
-= Check Box =
+= CHECK BOX =
 Checkbox another field type that Outputs specific value when ticked else fall back value. :)
 
-= Re-order fields =
+= RE-ORDER FIELDS =
 Re-order the fields on the checkout page from the Administration Menu by simple drag and drop on top of each other, or below each other of each new field created. This re-positions added new fields on the checkout.
 
-= Disable Addtional information Title =
+= ADDITIONAL TITLE =
+Prompts the customer that their are additional information that is required or optional to fill in.
 Two checkboxes are located above "Add New Field Section" one to remove the title for Checkout Page and other to remove it on the checkout details and receipt.
 
 
-= Included Translations =
+= INCLUDED TRANSLATIONS =
  
 * SPANISH
 * GERMAN
@@ -85,9 +87,13 @@ Should you have any questions or concerns please contact at the <a href="http://
 
 == Screenshots ==
 
-1. Settings Page
-2. Order Summary
-3. Receipt
+1. SETTINGS PAGE
+2. ORDER SUMMARY
+3. RECEIPT
+4. INPUT TYPE
+5. CHECKBOX
+6. DATE PICKER
+7. SELECT OPTIONS
 
 == Upgrade Notice ==
 
