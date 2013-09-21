@@ -1,7 +1,7 @@
 ﻿=== WooCommerce Checkout Manager ===
 Contributors: Emark
 Donate link: http://www.trottyzone.com/donation/
-Tags: woocommerce, wc, wc checkout settings, remove checkout fields, woothemes, woo commerce, links, shipping, order, fields, plugin, checkout page, manager, checkout field, checkout manager,plugin for plugin, paypal, payment,require, required remove, woocommerce checkout manager, checkout field, checkout, checkout woocommerce, woocommerce checkout field editor, field editor, checkout field, woocommerce custom checkout options , custom checkout, checkout option, options
+Tags: woocommerce, checkout settings, remove fields, shipping, order, fields, checkout page, checkout field, checkout manager, required remove, woocommerce checkout manager, checkout, checkout woocommerce, woocommerce checkout field editor, field editor, woocommerce custom checkout options , custom checkout, checkout option
 Requires at least: 3.0
 Tested up to: 3.6
 Stable tag: 3.5.5
@@ -15,7 +15,7 @@ Manages WooCommerce Checkout
 This is a WooCommerce extension plugin that targets the checkout processes in which goods are bought. This plugin gives you a vast amount of capabilities to manage your products on checkout such as removing fields that you do not need, removing the required attribute rendering the field optional to customer or even perhaps adding more fields to the checkout page. This plugin certainly can.
 
 
-= Features of the plugin include: =
+= Features =
 
 * Add or Remove the required asterisk from fields on checkout page. 
 
@@ -60,17 +60,11 @@ Two checkboxes are located above "Add New Field Section" one to remove the title
 = Included Translations =
  
 * SPANISH
-
 * GERMAN
-
 * DUTCH
-
 * FINNISH
-
 * FRENCH
-
 * NORWEGIAN
-
 * POLISH
 
 
