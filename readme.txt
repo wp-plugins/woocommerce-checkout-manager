@@ -61,25 +61,24 @@ Two checkboxes are located above "Add New Field Section" one to remove the title
 
 = INCLUDED TRANSLATIONS =
  
-* Spanish
-* German
-* Italian
-* Dutch
-* Finnish
-* French
-* Norwegian
-* Polish
-* Vietnamse
-* European Portuguese 
-* Brazilian Portuguese
+* SPANISH
+* GERMAN
+* ITALIAN
+* DUTCH
+* FINNISH
+* FRENCH
+* NORWEGIAN
+* POLISH
+* VIETNAMSE
+* EUROPEAN PORTUGUESE
+* BRAZILIAN PORTUGUESE
 
 
 Would you like this plugin translated in your own language? or Perhaps help us translate?
 You can put in an request at <a href="http://www.trottyzone.com/contact-us/">Contact Form</a>.
 
----------------------------------------------------
+
 = ------------ THANK YOU FOR DOWNLOADING ------------ =
----------------------------------------------------
 
 == Installation ==
 
