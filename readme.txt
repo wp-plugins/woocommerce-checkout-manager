@@ -31,7 +31,7 @@ This is a WooCommerce extension plugin that targets the checkout processes in wh
 
 * Enable/ Disable "Additional information" name on the Order Summary and Receipt.
 
-* Check out the <a href="http://www.trottyzone.com/product/woocommerce-checkout-manager/">PRO VERSION</a> for more added and extensive features! Such as more fields types and the must need text/ html swapper functionality. Etc.
+* Get <a href="http://www.trottyzone.com/product/woocommerce-checkout-manager/">PRO VERSION</a> for ten (10) fields types, re-position fields, make addresses optional, display payment method used, rename "additional information" title, add notices on checkout page, display added fields in the (back-end) ..etc..
 
 = REMOVING FIELDS =
 Removing fields became easier now, all you have to do is tick which box or which boxes that you do not want to show on the checkout page and it will be removed.
