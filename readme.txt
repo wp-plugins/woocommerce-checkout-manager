@@ -4,7 +4,7 @@ Donate link: http://www.trottyzone.com/donation/
 Tags: woocommerce, checkout settings, remove fields, shipping, order, fields, checkout page, checkout field, checkout manager, required remove, woocommerce checkout manager, checkout, checkout field editor, field editor, woocommerce custom checkout options , custom checkout, checkout option, field, payment, sell, buy, pay, tax, notice, re-order, order, new field, save field, manager, options, field editor
 Requires at least: 3.0
 Tested up to: 3.8
-Stable tag: 3.5.8
+Stable tag: 3.5.81
 License: GPLv2 or later
 
 Manages WooCommerce Checkout
@@ -70,7 +70,7 @@ Two checkboxes are located above "Add New Field Section" one to remove the title
 * POLISH
 * VIETNAMSE
 * EUROPEAN PORTUGUESE
-* BRAZILIAN PORTUGUESE
+* BRAZILIAN PORTUGUESE* BULGARIAN by Ivo Minchev
 
 Would you like this plugin translated in your own language? or Perhaps help us translate?
 You can put in an request at <a href="http://www.trottyzone.com/contact-us/">Contact Form</a>.
@@ -201,7 +201,7 @@ Translations updated
 Included translations - Vietnamse, Italian, European Portuguese, Brazilian Portuguese
 Layout fixed on Order Summary Page
 
-= 3.5.7 =Bug fix.= 3.5.8 =Bug fix.
+= 3.5.7 =Bug fix.= 3.5.8 =Bug fix.= 3.5.85 =Bulgarian language by Ivo Minchev
 == Changelog ==
 
 = 1.0 =
@@ -290,4 +290,4 @@ Translations updated
 
 = 3.5.6 =
 Included translations - Vietnamse, Italian, European Portuguese, Brazilian Portuguese
-Layout fixed on Order Summary Page= 3.5.7 =Bug fix.= 3.5.8 =Bug fix.
+Layout fixed on Order Summary Page= 3.5.7 =Bug fix.= 3.5.8 =Bug fix.= 3.5.85 =Bulgarian language by Ivo Minchev
