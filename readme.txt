@@ -9,16 +9,32 @@ License: GPLv2 or later
 Manages WooCommerce Checkout
 == Description ==
 This is a WooCommerce extension plugin that targets the checkout processes in which goods are bought. This plugin gives you a vast amount of capabilities to manage your products on checkout such as removing fields that you do not need, removing the required attribute rendering the field optional to customer or even perhaps adding more fields to the checkout page. This plugin certainly can.
-= FEATURES =
-* Add or Remove the required asterisk from fields on checkout page. 
-* Make checkout fields completely optional for the customer to fill out.
-* Add new fields to the checkout page.
-* Four ( 4 ) fields types included: Text Input + Check Box + Select Options + Date Picker
+= FEATURES =
+
 * Re-order new fields. 
-* Added fields will appear on Order Summary and Receipt under “Additional information.”
-* Enable/ Disable "Additional information" name on the Order Summary and Receipt.
-= PRO VERSION =[WooCommerce Checkout Manager Pro](http://www.trottyzone.com/product/woocommerce-checkout-manager/) offers these cool nifty extra features:* Ten ( 10 ) field types included:1. Text Input	2. Text Area 3. Password 4. Radio Button 5. Check Box 6. Select Options 7. Date Picker 8. Time Picker 9. Text/ Html Swapper	10. Color Picker* Upload files for each order for both Customers and Admins.* Create Conditional Fields.* Disable any added field from Checkout details page and Order Receipt.* Retain fields information for customers when they navigate back and forth from checkout.* Disable Billing Address fields for chosen shipping goods. Which makes them visible only for virtual goods.* Make both Shipping and Billing Address fields Optional.* Show added field for Specific Product or Category Only. 
-* Hide added field for Specific Product or Category Only.* Change the default datepicker format: dd-mm-yy to another format (example. mm-dd-yy) also set Minimum Date and Maximum Date.* Area to insert your own Custom CSS.* Added fields will appear on1. Order Summary 2. Receipt 3. Order Details (back-end)* Re-position the added fields any of these places:1. Before Shipping Form 2. After Shipping Form 3. Before Billing Form 4. After Billing Form 5. After Order Notes* Display payment method and shipping method used on checkout. Will show also on: 1. Order Summary 2. Receipt 3. Order Details (back-end)* Insert Up to two (2) Notices on checkout page. Positions are:1. Before Customer Address Fields 2. Before Order Summary
+* Add new fields to the checkout page.
+
+* Add or Remove the required asterisk from fields on checkout page. 
+
+* Make checkout fields completely optional for the customer to fill out.
+
+* Enable/ Disable "Additional information" name on the Order Summary and Receipt.
+
+* Four ( 4 ) fields types included: Text Input + Check Box + Select Options + Date Picker
+* Added fields will appear on Order Summary and Receipt under “Additional information.”
+= PRO VERSION =[WooCommerce Checkout Manager Pro](http://www.trottyzone.com/product/woocommerce-checkout-manager/) offers these cool nifty extra features:= Ten ( 10 ) field types included: =1. Text Input	2. Text Area 3. Password 4. Radio Button 5. Check Box 6. Select Options 7. Date Picker 8. Time Picker 9. Text/ Html Swapper	10. Color Picker
+= More Features =
+* Create Conditional Fields.
+
+* Area to insert your own Custom CSS.
+
+* Make both Shipping and Billing Address fields Optional.
+* Upload files for each order for both Customers and Admins.
+* Show or Hide added field for Specific Product or Category Only. 
+
+* Display Payment Method and Shipping Method used on checkout. 
+
+* Disable any added field from Checkout details page and Order Receipt.* Retain fields information for customers when they navigate back and forth from checkout.* Disable Billing Address fields for chosen shipping goods. Which makes them visible only for virtual goods.* Change the default DatePicker format: (dd-mm-yy) to another format (example. mm-dd-yy) also Set Minimum Date and Maximum Date.= Added fields will appear on =1. Order Summary 2. Receipt 3. Order Details (back-end)= Re-position the added fields =1. Before Shipping Form 2. After Shipping Form 3. Before Billing Form 4. After Billing Form 5. After Order Notes= Insert Up to two (2) Notices on checkout page =1. Before Customer Address Fields 2. Before Order Summary
 
 = REMOVING FIELDS =
 Removing fields became easier now, all you have to do is tick which box or which boxes that you do not want to show on the checkout page and it will be removed.
@@ -35,14 +51,14 @@ Another type is the date field, has a great design, where when you click the fie
 One of the types of fields you can add is the options field, where you can insert your options to be selected on checkout as a drop down "select". 
 
 = CHECK BOX =
-Checkbox another field type that Outputs specific value when ticked else fall back value. :)
+CheckBox another field type that Outputs specific value when ticked else fall back value. :)
 
 = RE-ORDER FIELDS =
 Re-order the fields on the checkout page from the Administration Menu by simple drag and drop on top of each other, or below each other of each new field created. This re-positions added new fields on the checkout.
 
 = ADDITIONAL TITLE =
 Prompts the customer that their are additional information that is required or optional to fill in.
-Two checkboxes are located above "Add New Field Section" one to remove the title for Checkout Page and other to remove it on the checkout details and receipt.
+Two CheckBoxes are located above "Add New Field Section" one to remove the title for Checkout Page and other to remove it on the checkout details and receipt.
 
 
 = INCLUDED TRANSLATIONS =
