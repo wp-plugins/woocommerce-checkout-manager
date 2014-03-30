@@ -22,7 +22,7 @@ This is a WooCommerce extension plugin that targets the checkout processes in wh
 
 * Four ( 4 ) fields types included: Text Input + Check Box + Select Options + Date Picker
 * Added fields will appear on Order Summary and Receipt under “Additional information.”
-= PRO VERSION =[WooCommerce Checkout Manager Pro](http://www.trottyzone.com/product/woocommerce-checkout-manager/) offers these cool nifty extra features:= Ten ( 10 ) field types included: =1. Text Input	2. Text Area 3. Password 4. Radio Button 5. Check Box 6. Select Options 7. Date Picker 8. Time Picker 9. Text/ Html Swapper	10. Color Picker
+= PRO VERSION =[WooCommerce Checkout Manager Pro](http://www.trottyzone.com/product/woocommerce-checkout-manager-pro/) offers these cool nifty extra features:= Ten ( 10 ) field types included: =1. Text Input	2. Text Area 3. Password 4. Radio Button 5. Check Box 6. Select Options 7. Date Picker 8. Time Picker 9. Text/ Html Swapper	10. Color Picker
 = More Features =
 * Create Conditional Fields.
 
