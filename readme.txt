@@ -26,15 +26,34 @@ This is a WooCommerce extension plugin that targets the checkout processes in wh
 = More Features =
 * Create Conditional Fields.
 
-* Area to insert your own Custom CSS.
+* Create Conditional field to allow customer to [b]remove tax[/b] (tax exempt).
+
+* Create Conditional field to allow customer to add amount on checkout. (Pre-defined by admin OR customer can enter any amount).
 
 * Make both Shipping and Billing Address fields Optional.
-* Upload files for each order for both Customers and Admins.
-* Show or Hide added field for Specific Product or Category Only. 
 
-* Display Payment Method and Shipping Method used on checkout. 
+* Upload files for each order for both Customers and Admins.
 
-* Disable any added field from Checkout details page and Order Receipt.* Retain fields information for customers when they navigate back and forth from checkout.* Disable Billing Address fields for chosen shipping goods. Which makes them visible only for virtual goods.* Change the default DatePicker format: (dd-mm-yy) to another format (example. mm-dd-yy) also Set Minimum Date and Maximum Date.= Added fields will appear on =1. Order Summary 2. Receipt 3. Order Details (back-end)= Re-position the added fields =1. Before Shipping Form 2. After Shipping Form 3. Before Billing Form 4. After Billing Form 5. After Order Notes= Insert Up to two (2) Notices on checkout page =1. Before Customer Address Fields 2. Before Order Summary
+* Show or Hide added field for Specific Product or Category Only.
+
+* Display Payment Method and Shipping Method used on checkout.
+
+* Disable any added field from Checkout details page and Order Receipt.
+
+* Retain fields information for customers when they navigate back and forth from checkout.
+
+* Disable Billing Address fields for chosen shipping goods. Which makes them visible only for virtual goods.
+
+* Change the default DatePicker format: (dd-mm-yy) to another format (example. mm-dd-yy).
+
+* DatePicker: Set Minimum Date and Maximum Date.
+
+* DatePicker: Disable days in the week.
+
+* Area to insert your own Custom CSS.
+
+* Set default State for checkout.
+= Added fields will appear on =1. Order Summary 2. Receipt 3. Order Details (back-end)= Re-position the added fields =1. Before Shipping Form 2. After Shipping Form 3. Before Billing Form 4. After Billing Form 5. After Order Notes= Insert Up to two (2) Notices on checkout page =1. Before Customer Address Fields 2. Before Order Summary
 
 = REMOVING FIELDS =
 Removing fields became easier now, all you have to do is tick which box or which boxes that you do not want to show on the checkout page and it will be removed.
