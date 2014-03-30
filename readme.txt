@@ -26,9 +26,10 @@ This is a WooCommerce extension plugin that targets the checkout processes in wh
 = More Features =
 * Create Conditional Fields.
 
-* Create Conditional field to allow customer to [b]remove tax[/b] (tax exempt).
+* Create Conditional field to allow customer to Remove Tax (Tax Exempt).
 
-* Create Conditional field to allow customer to add amount on checkout. (Pre-defined by admin OR customer can enter any amount).
+* Create Conditional field to allow customer to Add Amount on checkout. 
+(Pre-defined by admin OR Customer Can Enter Any Amount).
 
 * Make both Shipping and Billing Address fields Optional.
 
@@ -40,7 +41,7 @@ This is a WooCommerce extension plugin that targets the checkout processes in wh
 
 * Disable any added field from Checkout details page and Order Receipt.
 
-* Retain fields information for customers when they navigate back and forth from checkout.
+* Retain Fields Information for customers when they navigate back and forth from checkout.
 
 * Disable Billing Address fields for chosen shipping goods. Which makes them visible only for virtual goods.
 
