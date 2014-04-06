@@ -77,6 +77,10 @@ This is a WooCommerce extension plugin that targets the checkout processes in wh
 
 * Set default State for checkout.
 
+* Import/ Export added fields data.
+
+* Fields label can accept html characters. 
+
 = Added fields will appear on =
 1. Order Summary 
 2. Receipt 
