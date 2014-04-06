@@ -46,20 +46,17 @@ This is a WooCommerce extension plugin that targets the checkout processes in wh
 10. Color Picker
 
 = More Features =
-* Create Conditional Fields.
-
-* Create Conditional field to allow customer to Remove Tax (Tax Exempt).
-
-* Create Conditional field to allow customer to Add Amount on checkout. 
-(Pre-defined by admin OR Customer Can Enter Any Amount).
+* Create Conditional Fields which includes 
+* to allow customer to Remove Tax (Tax Exempt),
+* to allow customer to Add Amount on checkout (Pre-defined by admin or Customer Can Enter Any Amount).
 
 * Make both Shipping and Billing Address fields Optional.
 
-* Upload files for each order for both Customers and Admins.
+* Allow Customers to Upload files for each order.
 
 * Show or Hide added field for Specific Product or Category Only.
 
-* Display Payment Method and Shipping Method used on checkout.
+* Display Payment Method and Shipping Method used by customer.
 
 * Disable any added field from Checkout details page and Order Receipt.
 
@@ -67,11 +64,7 @@ This is a WooCommerce extension plugin that targets the checkout processes in wh
 
 * Disable Billing Address fields for chosen shipping goods. Which makes them visible only for virtual goods.
 
-* Change the default DatePicker format: (dd-mm-yy) to another format (example. mm-dd-yy).
-
-* DatePicker: Set Minimum Date and Maximum Date.
-
-* DatePicker: Disable days in the week.
+* DatePicker: Change the default format (dd-mm-yy), Set Minimum Date and Maximum Date, Disable days in the week (Sun – Sat).
 
 * Area to insert your own Custom CSS.
 
@@ -80,6 +73,8 @@ This is a WooCommerce extension plugin that targets the checkout processes in wh
 * Import/ Export added fields data.
 
 * Fields label can accept html characters. 
+
+* Disable/ Change / Enable / Disable Additional information Title
 
 = Added fields will appear on =
 1. Order Summary 
@@ -96,58 +91,6 @@ This is a WooCommerce extension plugin that targets the checkout processes in wh
 = Insert Up to two (2) Notices on checkout page =
 1. Before Customer Address Fields 
 2. Before Order Summary
-
-
-= REMOVING FIELDS =
-
-Removing fields became easier now, all you have to do is tick which box or which boxes that you do not want to show on the checkout page and it will be removed.
-
-Also you have the ability to not just remove the field alone but also remove the required (asterisk) attribute from the field. Leaving the field optional for the customer to fill out.
-
-
-
-= ADD NEW FIELDS  =
-
-Now that everyone finds that the default fields are not just quite enough, with this plugin you can solve that by adding new fields with different types. All you have to do is click the "Add New field" button and a drop down box will show allowing you to set the new field name which is "Label" and to set the example in the field which is "Placeholder" plus select different types of fields.
-
-
-
-= TEXT & DATE TYPES =
-
-Text is a regular field type for inputing text, numbers, special characters etc.
-
-
-
-Another type is the date field, has a great design, where when you click the field for date, a pop up calender displays, where you can choose a number of dates, skip between months by clicking the arrows and choosing the day. Also it shows you the current date! Highlighted. Awesome isn't it?!
-
-
-
-= SELECT OPTIONS TYPE =
-
-One of the types of fields you can add is the options field, where you can insert your options to be selected on checkout as a drop down "select". 
-
-
-
-= CHECK BOX =
-
-CheckBox another field type that Outputs specific value when ticked else fall back value. :)
-
-
-
-= RE-ORDER FIELDS =
-
-Re-order the fields on the checkout page from the Administration Menu by simple drag and drop on top of each other, or below each other of each new field created. This re-positions added new fields on the checkout.
-
-
-
-= ADDITIONAL TITLE =
-
-Prompts the customer that their are additional information that is required or optional to fill in.
-
-Two CheckBoxes are located above "Add New Field Section" one to remove the title for Checkout Page and other to remove it on the checkout details and receipt.
-
-
-
 
 
 = INCLUDED TRANSLATIONS =
