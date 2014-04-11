@@ -33,7 +33,7 @@ This is a WooCommerce extension plugin that targets the checkout processes in wh
 = PRO VERSION =
 [WooCommerce Checkout Manager Pro](http://www.trottyzone.com/product/woocommerce-checkout-manager-pro/) offers these cool nifty extra features:
 
-= Ten ( 10 ) field types included: =
+= Ten ( 12 ) field types included: =
 1. Text Input	
 2. Text Area 
 3. Password 
@@ -44,6 +44,8 @@ This is a WooCommerce extension plugin that targets the checkout processes in wh
 8. Time Picker 
 9. Text/ Html Swapper	
 10. Color Picker
+11. Heading
+12. Multi-Select
 
 = More Features =
 * Create Conditional Fields which includes 
