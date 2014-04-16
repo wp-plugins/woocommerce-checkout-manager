@@ -279,7 +279,7 @@ Bug fix.
 Bug fixes.
 
 = 3.6.1 =
-Compatibility with 2.1.7 WooCommerce
+Compatibility with 2.1.7 WooCommerce && WPML
 
 == Changelog ==
 = 1.0 =
@@ -386,4 +386,4 @@ Bug fix.
 Bug fixes.
 
 = 3.6.1 =
-Compatibility with 2.1.7 WooCommerce
+Compatibility with 2.1.7 WooCommerce && WPML
