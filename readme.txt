@@ -29,6 +29,7 @@ This is a WooCommerce extension plugin that targets the checkout processes in wh
 
 * Added fields will appear on Order Summary and Receipt under “Additional information.”
 
+* Compatible with [WPML](http://wpml.org/) and [WooCommerce Print Invoice & Delivery Note](http://wordpress.org/plugins/woocommerce-delivery-notes/)
 
 = PRO VERSION =
 [WooCommerce Checkout Manager Pro](http://www.trottyzone.com/product/woocommerce-checkout-manager-pro/) offers these cool nifty extra features:
