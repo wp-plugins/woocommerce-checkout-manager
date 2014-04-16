@@ -3,7 +3,7 @@
 Plugin Name: WooCommerce Checkout Manager
 Plugin URI: http://www.trottyzone.com/product/woocommerce-checkout-manager-pro
 Description: Manages WooCommerce Checkout fields
-Version: 3.6.1
+Version: 3.7
 Author: Ephrain Marchan
 Author URI: http://www.trottyzone.com
 License: GPLv2 or later
@@ -1171,3 +1171,30 @@ clear: both;
 add_action('wp_head','display_front_wccs');
 
 add_filter( 'wp_feed_cache_transient_lifetime', create_function('$a', 'return 1800;') );
+
+
+function wccm_woocommerce_delivery_notes_compat( $fields, $order ) {
+	$options = get_option( 'wccs_settings' );
+        $new_fields = array();
+      
+
+if ( count( $options['buttons'] ) > 0 ) : 
+					$i = 0;
+					// Loop through each button
+					foreach ( $options['buttons'] as $btn ) :
+					
+
+    if( get_post_meta( $order->id, ''.$btn['label'].'', true ) ) {
+        $new_fields[''.$btn['label'].''] = array( 
+            'label' => ''.$btn['label'].'',
+            'value' => get_post_meta( $order->id, ''.$btn['label'].'', true )
+        );
+    }
+
+$i++;
+					endforeach;
+endif;
+ 
+    return array_merge( $fields, $new_fields );
+}
+add_filter( 'wcdn_order_info_fields', 'wccm_woocommerce_delivery_notes_compat', 10, 2 );
