@@ -1,0 +1,177 @@
+<wpml-config>
+<admin-texts>
+<key name="wccs_settings">
+<key name="replace">
+<key name="label" />
+<key name="placeholder" />
+<key name="label1" />
+<key name="placeholder1" />
+<key name="label3" />
+<key name="placeholder3" />
+<key name="label4" />
+<key name="placeholder4" />
+<key name="label5" />
+<key name="placeholder5" />
+<key name="label11" />
+<key name="placeholder11" />
+<key name="label_s" />
+<key name="placeholder_s" />
+<key name="label_s1" />
+<key name="placeholder_s1" />
+<key name="label_s2" />
+<key name="placeholder_s2" />
+<key name="label_s7" />
+</key>
+<key name="checkness">
+<key name="checkbox12" />
+<key name="checkbox1" />
+</key>
+<key name="buttons">
+<key name="0">
+<key name="label" />
+<key name="placeholder" />
+<key name="option_a" />
+<key name="option_b" />
+<key name="type" />
+<key name="cow" />
+<key name="checkbox" />
+</key>
+<key name="1">
+<key name="label" />
+<key name="placeholder" />
+<key name="option_a" />
+<key name="option_b" />
+<key name="type" />
+<key name="cow" />
+<key name="checkbox" />
+</key>
+<key name="2">
+<key name="label" />
+<key name="placeholder" />
+<key name="option_a" />
+<key name="option_b" />
+<key name="type" />
+<key name="cow" />
+<key name="checkbox" />
+</key>
+<key name="3">
+<key name="label" />
+<key name="placeholder" />
+<key name="option_a" />
+<key name="option_b" />
+<key name="type" />
+<key name="cow" />
+<key name="checkbox" />
+</key>
+<key name="4">
+<key name="label" />
+<key name="placeholder" />
+<key name="option_a" />
+<key name="option_b" />
+<key name="type" />
+<key name="cow" />
+<key name="checkbox" />
+</key>
+<key name="5">
+<key name="label" />
+<key name="placeholder" />
+<key name="option_a" />
+<key name="option_b" />
+<key name="type" />
+<key name="cow" />
+<key name="checkbox" />
+</key>
+<key name="6">
+<key name="label" />
+<key name="placeholder" />
+<key name="option_a" />
+<key name="option_b" />
+<key name="type" />
+<key name="cow" />
+<key name="checkbox" />
+</key>
+<key name="7">
+<key name="label" />
+<key name="placeholder" />
+<key name="option_a" />
+<key name="option_b" />
+<key name="type" />
+<key name="cow" />
+<key name="checkbox" />
+</key>
+<key name="8">
+<key name="label" />
+<key name="placeholder" />
+<key name="option_a" />
+<key name="option_b" />
+<key name="type" />
+<key name="cow" />
+<key name="checkbox" />
+</key>
+<key name="9">
+<key name="label" />
+<key name="placeholder" />
+<key name="option_a" />
+<key name="option_b" />
+<key name="type" />
+<key name="cow" />
+<key name="checkbox" />
+</key>
+<key name="10">
+<key name="label" />
+<key name="placeholder" />
+<key name="option_a" />
+<key name="option_b" />
+<key name="type" />
+<key name="cow" />
+<key name="checkbox" />
+</key>
+<key name="11">
+<key name="label" />
+<key name="placeholder" />
+<key name="option_a" />
+<key name="option_b" />
+<key name="type" />
+<key name="cow" />
+<key name="checkbox" />
+</key>
+<key name="12">
+<key name="label" />
+<key name="placeholder" />
+<key name="option_a" />
+<key name="option_b" />
+<key name="type" />
+<key name="cow" />
+<key name="checkbox" />
+</key>
+<key name="13">
+<key name="label" />
+<key name="placeholder" />
+<key name="option_a" />
+<key name="option_b" />
+<key name="type" />
+<key name="cow" />
+<key name="checkbox" />
+</key>
+<key name="14">
+<key name="label" />
+<key name="placeholder" />
+<key name="option_a" />
+<key name="option_b" />
+<key name="type" />
+<key name="cow" />
+<key name="checkbox" />
+</key>
+<key name="15">
+<key name="label" />
+<key name="placeholder" />
+<key name="option_a" />
+<key name="option_b" />
+<key name="type" />
+<key name="cow" />
+<key name="checkbox" />
+</key>
+</key>
+</key>
+</admin-texts>
+</wpml-config>
