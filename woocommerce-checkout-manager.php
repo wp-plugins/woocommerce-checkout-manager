@@ -1185,7 +1185,7 @@ if ( count( $options['buttons'] ) > 0 ) :
 					
 
     if( get_post_meta( $order->id, ''.$btn['label'].'', true ) ) {
-        $new_fields[''.$btn['label'].''] = array( 
+        $new_fields[''.$btn['cow'].''] = array( 
             'label' => ''.$btn['label'].'',
             'value' => get_post_meta( $order->id, ''.$btn['label'].'', true )
         );
