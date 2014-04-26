@@ -39,8 +39,8 @@ This is a WooCommerce extension plugin that targets the checkout processes in wh
 2. Text Area 
 3. Password 
 4. Radio Button (Unlimited Options)
-5. Check Box 
-6. Select Options (Unlimited Options)
+5. Select Options (Unlimited Options)
+6. Check Box (Put your own any two option)
 7. Date Picker 
 8. Time Picker 
 9. Text/ Html Swapper	
