@@ -411,7 +411,7 @@ endif;
 <ul>
 <li><?php _e('Text Area', 'woocommerce-checkout-manager'); ?></li>
 <li><?php _e('Password', 'woocommerce-checkout-manager'); ?></li>
-<li><?php _e('Check Box', 'woocommerce-checkout-manager'); ?></li>
+<li><?php _e('Mult-Select', 'woocommerce-checkout-manager'); ?></li>
 </ul>
 <ul>
 <li><?php _e('Radio Button (Unlimited Options)', 'woocommerce-checkout-manager'); ?></li>
@@ -424,7 +424,7 @@ endif;
 <li><?php _e('Heading', 'woocommerce-checkout-manager'); ?></li>
 </ul>
 <ul>
-<li><?php _e('Mult-Select', 'woocommerce-checkout-manager'); ?></li>
+<li><?php _e('Check Box (Put your own options)', 'woocommerce-checkout-manager'); ?></li>
 <li><strong><a href="http://www.trottyzone.com/product/woocommerce-checkout-manager-pro/"><?php _e('more features. . .', 'woocommerce-checkout-manager'); ?></a></strong></li>
 </ul>
 </div>
