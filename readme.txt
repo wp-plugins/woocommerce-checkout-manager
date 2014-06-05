@@ -54,7 +54,7 @@ This is a WooCommerce extension plugin that targets the checkout processes in wh
 * to allow customer to Remove Tax (Tax Exempt),
 * to allow customer to Add Amount on checkout (Pre-defined by admin or Customer Can Enter Any Amount).
 
-* Make both Shipping and Billing Address fields Optional.
+* Replace Text using Text/ Html Swapper.
 
 * Allow Customers to Upload files for each order.
 
