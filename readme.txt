@@ -47,6 +47,7 @@ This is a WooCommerce extension plugin that targets the checkout processes in wh
 10. Color Picker
 11. Heading
 12. Multi-Select
+13. Multi-Checkbox
 
 = More Features =
 * Create Conditional Fields which includes 
@@ -63,21 +64,26 @@ This is a WooCommerce extension plugin that targets the checkout processes in wh
 
 * Disable any added field from Checkout details page and Order Receipt.
 
-* Retain Fields Information for customers when they navigate back and forth from checkout.
+* Retain fields information for customers when they navigate back and forth from checkout.
 
 * Disable Billing Address fields for chosen shipping goods. Which makes them visible only for virtual goods.
 
 * DatePicker: Change the default format (dd-mm-yy), Set Minimum Date and Maximum Date, Disable days in the week (Sun – Sat).
 
+* TimePicker: Includes restriction of both start and end hours, set the minutes interval and manually input labels.
+
 * Area to insert your own Custom CSS.
 
-* Set default State for checkout.
+* Display Order Time.
+
+* Set Default State for checkout.
 
 * Import/ Export added fields data.
 
-* Fields label can accept html characters. 
+* Fields label can accept html characters.
 
-* Disable/ Change / Enable / Disable Additional information Title
+* Disable/ Change Additional information Title
+
 
 = Added fields will appear on =
 1. Order Summary 
