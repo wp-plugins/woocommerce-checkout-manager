@@ -1168,7 +1168,7 @@ float:left;
 width: 47%;
 }
 .wccs-field-class:nth-child(2n+2) {
-float: right;
+padding-right: 3.4% !important;
 }
 .add_info_wccs {
 clear: both;
