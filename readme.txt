@@ -116,6 +116,7 @@ This is a WooCommerce extension plugin that targets the checkout processes in wh
 * EUROPEAN PORTUGUESE
 * BRAZILIAN PORTUGUESE
 * BULGARIAN by Ivo Minchev
+* CHINESE by Sid Lo
 
 
 Would you like this plugin translated in your own language? or Perhaps help us translate?
