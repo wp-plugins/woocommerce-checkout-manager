@@ -1,10 +1,10 @@
-﻿=== WooCommerce Checkout Manager ===
+=== WooCommerce Checkout Manager ===
 Contributors: Emark
 Donate link: http://www.trottyzone.com/donation/
 Tags: woocommerce, checkout settings, remove fields, shipping, order, fields, checkout page, checkout field, checkout manager, required remove, woocommerce checkout manager, checkout, checkout field editor, field editor, woocommerce custom checkout options , custom checkout, checkout option, field, payment, sell, buy, pay, tax, notice, re-order, order, new field, save field, manager, options, field editor
 Requires at least: 3.0
 Tested up to: 4.0
-Stable tag: 3.6.3
+Stable tag: 3.6.4
 License: GPLv2 or later
 
 Manages WooCommerce Checkout
@@ -116,6 +116,7 @@ This is a WooCommerce extension plugin that targets the checkout processes in wh
 * EUROPEAN PORTUGUESE
 * BRAZILIAN PORTUGUESE
 * BULGARIAN by Ivo Minchev
+* CHINESE by Sid Lo
 
 
 Would you like this plugin translated in your own language? or Perhaps help us translate?
@@ -294,6 +295,11 @@ WPML bug fix
 = 3.6.3 =
 WPML bug fix 2 (translation for e-mails)
 
+= 3.6.4 =
+WPML bug fixes 3 
+
+
+
 == Changelog ==
 = 1.0 =
 Initial
@@ -406,3 +412,6 @@ WPML bug fix
 
 = 3.6.3 =
 WPML bug fix 2 (translation for e-mails)
+
+= 3.6.4 =
+WPML bug fixes 3 
