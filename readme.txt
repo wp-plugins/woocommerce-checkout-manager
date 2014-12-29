@@ -34,6 +34,8 @@ This is a WooCommerce extension plugin that targets the checkout processes in wh
 = PRO VERSION =
 [WooCommerce Checkout Manager Pro](http://www.trottyzone.com/product/woocommerce-checkout-manager-pro/) offers these cool nifty extra features:
 
+* **<span style="color:red;">New!</span>** Add new fields to the **Billing Address** or/and **Shipping Address** Section. These fields can be **EDITED** on the **My Account Page**.
+
 = Ten ( 12 ) field types included: =
 1. Text Input	
 2. Text Area 
