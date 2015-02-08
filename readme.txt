@@ -3,8 +3,8 @@ Contributors: Emark
 Donate link: http://www.trottyzone.com/donation/
 Tags: woocommerce, checkout settings, remove fields, shipping, order, fields, checkout page, checkout field, checkout manager, required remove, woocommerce checkout manager, checkout, checkout field editor, field editor, woocommerce custom checkout options , custom checkout, checkout option, field, payment, sell, buy, pay, tax, notice, re-order, order, new field, save field, manager, options, field editor
 Requires at least: 3.0
-Tested up to: 4.0
-Stable tag: 3.6.5
+Tested up to: 4.2
+Stable tag: 3.6.6
 License: GPLv2 or later
 
 Manages WooCommerce Checkout
@@ -183,126 +183,6 @@ Should you have any questions or concerns please contact at the <a href="http://
 
 7. SELECT OPTIONS
 
-
-== Upgrade Notice ==
-= 1.0 =
-Initial
-
-= 1.2 =
-Added required attribute removal
-
-= 1.3 =
-bug fix!
-
-= 1.4 =
-More features added.
-
-= 1.5 =
-some bugs fixed
-
-= 1.6 =
-more bugs fixed
-
-= 1.7 =
-add/remove required field for each new fields
-
-= 2.0 =
-Custom fields data are added to the receipt
-
-= 2.1 =
-Checkout process fix
-
-= 2.2 =
-bug fix
-
-= 2.3 =
-Additional features
-
-= 2.4 =
-Localization Ready
-
-= 2.5 =
-Added features for shipping
-
-= 2.6 =
-remove fields for shipping
-
-= 2.7 =
-required attribute bug fix and included translations
-
-= 2.8 =
-Bug fixes
-
-= 2.9 =
-Bug fixes
-
-= 3.0 =
-Javascript fix and rename fields inserted
-
-= 3.1 =
-bug fix
-
-= 3.2 =
-code review
-
-= 3.3 =
-fields positioning, fixed.
-
-= 3.4 =
-bug fixed.
-
-= 3.5 =
-Select date function, included.
-
-= 3.5.1 =
-Select option and checkbox functions, included.
-
-= 3.5.2 =
-updating to standard.
-
-= 3.5.3 =
-bug fix- force selection for option and minor fix.
-
-= 3.5.4 =
-Added feature.
-
-= 3.5.5 =
-Translations updated
-
-= 3.5.6 =
-Included translations - Vietnamse, Italian, European Portuguese, Brazilian Portuguese
-Layout fixed on Order Summary Page
-
-= 3.5.7 =
-Bug fix.
-
-= 3.5.8 =
-Bug fix.
-
-= 3.5.81 =
-Bulgarian language by Ivo Minchev
-
-= 3.5.9 =
-Bug fix.
-
-= 3.6 =
-Bug fixes.
-
-= 3.6.1 =
-Compatibility with 2.1.7 WooCommerce && WPML
-
-= 3.6.2 =
-WPML bug fix
-
-= 3.6.3 =
-WPML bug fix 2 (translation for e-mails)
-
-= 3.6.4 =
-WPML bug fixes 3 
-
-= 3.6.5 =
-WPML bug fixes 4
-
 == Changelog ==
 = 1.0 =
 Initial
@@ -421,3 +301,7 @@ WPML bug fixes 3
 
 = 3.6.5 =
 WPML bug fixes 4
+
+= 3.6.6 =
+GUI + Code clean up.
+Multi-lang Save issue fix.
