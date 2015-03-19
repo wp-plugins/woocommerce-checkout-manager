@@ -4,14 +4,14 @@ Donate link: http://www.trottyzone.com/donation/
 Tags: woocommerce, checkout settings, remove fields, shipping, order, fields, checkout page, checkout field, checkout manager, required remove, woocommerce checkout manager, checkout, checkout field editor, field editor, woocommerce custom checkout options , custom checkout, checkout option, field, payment, sell, buy, pay, tax, notice, re-order, order, new field, save field, manager, options, field editor
 Requires at least: 3.0
 Tested up to: 4.2
-Stable tag: 3.6.6
+Stable tag: 3.6.7
 License: GPLv2 or later
 
 Manages WooCommerce Checkout
 
 == Description ==
 
-This is a WooCommerce extension plugin that targets the checkout processes in which goods are bought. This plugin gives you a vast amount of capabilities to manage your products on checkout such as removing fields that you do not need, removing the required attribute rendering the field optional to customer or even perhaps adding more fields to the checkout page. This plugin certainly can.
+This is a WooCommerce extension plugin that targets the checkout processes in which goods are bought. This plugin gives you capabilities to manage your products on checkout such as removing fields that you do not need, removing the required attribute rendering the field optional to customer or even perhaps adding more fields to the checkout page. This plugin certainly can.
 
 = FEATURES =
 
@@ -29,12 +29,13 @@ This is a WooCommerce extension plugin that targets the checkout processes in wh
 
 * Added fields will appear on Order Summary and Receipt under “Additional information.”
 
-* Compatible with [WPML](http://wpml.org/) and [WooCommerce Print Invoice & Delivery Note](http://wordpress.org/plugins/woocommerce-delivery-notes/)
+* Compatible with [WPML](http://wpml.org/) | [WooCommerce Print Invoice & Delivery Note](http://wordpress.org/plugins/woocommerce-delivery-notes/) | [ WooCommerce Order/Customer CSV Export](http://www.woothemes.com/products/ordercustomer-csv-export/)
 
 = PRO VERSION =
 [WooCommerce Checkout Manager Pro](http://www.trottyzone.com/product/woocommerce-checkout-manager-pro/) offers these cool nifty extra features:
 
-* **<span style="color:red;">New!</span>** Add new fields to the **Billing Address** or/and **Shipping Address** Section. These fields can be **EDITED** on the **My Account Page**.
+* Add new fields to the **Billing** and **Shipping** Section **separately** from Additional Section. 
+* These fields can be edited on your customers **account** page.
 
 = Ten ( 12 ) field types included: =
 1. Text Input	
@@ -305,3 +306,8 @@ WPML bug fixes 4
 = 3.6.6 =
 GUI + Code clean up.
 Multi-lang Save issue fix.
+
+= 3.6.7 =
+Add Error Fix.
+Add WooCommerce Order/Customer CSV Export support
+Able to Change additional information header
