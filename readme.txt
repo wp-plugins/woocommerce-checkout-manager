@@ -135,35 +135,53 @@ You can put in an request at <a href="http://www.trottyzone.com/contact-us/">Con
 
 First Method:
 
-1. Unzip the .zip file to get 'woocommerce-checkout-manager' folder
-2. Goto your hosting server, look for wp-content folder > plugins > upload folder
+= Minimum Requirements =
+WordPress 3.8 or greater
+* PHP version 5.2.4 or greater
+* MySQL version 5.0 or greater
 
-3. Go to control panel > Plugins > Installed Plugins 
-4. Look for it in the Listing and click the 'activate' button to activate it
+= WP installation =
+1. Log in to your WordPress dashboard
+2. Navigate to the Plugins menu and click Add New.
+2. Click Upload Plugin
+3. Click Choose File and select downloaded zip file
+4. Click Install Now
 
-3. Thats it! :)
+= NP: The downloaded zip file is the file that you download from wordpress.org. =
 
+= FTP installation =
+The manual installation method involves downloading the plugin and uploading it to your webserver via an FTP application. The WordPress codex contains instructions on how to do this here.
 
-Second Method:
-
-1. Go to control panel > Plugins > Installed Plugins > Upload
-
-2. Select .zip File, upload and install
-
-3. Thats it! :)
-
+= Updating =
+Automatic updates are delivered just like any other WordPress plugin.
 
 
 == Frequently Asked Questions ==
 
-* Array is showing in your field?
+= How to fix fields that are not showing on checkout page properly? = 
+Usually this is an CSS issue. If your theme comes with the option to input your very own custom CSS, you can use the abbreviation field name as part of the CSS code to set the fields in the way that you want. 
 
-- Fixed by filling out abbreviation field so that "Array" will not show.
+Example :
+`
+#myfield1_field {
+	float: right;
+}
+`
 
+= How do I review the data from the custom fields? = 
+Your order data can be reviewed in each order. By default your "Custom Fields" section should be showing allowing you to see the custom fields data.
+If the fields are not showing, follow these steps:
 
+1. Go to your desired Order.
+2. Click "Screen Options"
+3. Check "Custom Fields"
+4. Scroll down till you see "Custom Fields" section.
 
-Should you have any questions or concerns please contact at the <a href="http://www.trottyzone.com/forums/forum/wordpress-plugins-and-hacks/">plugin's forum</a>
+= How do you access saved data to be used with WooCommerce PDF Invoices & Packing Slips? = 
+The above plugin requests that you code the fields in the template. To access the saved data, use the abbreviation name of the field. As we are using the first abbreviation field as an example. Where "myfield1" is the abbreviation name, and "My custom field:" is the label.
 
+Example:
+`<?php $wpo_wcpdf->custom_field('myfield1', 'My custom field:'); ?>`
 
 
 == Screenshots ==
