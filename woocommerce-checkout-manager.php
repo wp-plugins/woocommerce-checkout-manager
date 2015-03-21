@@ -1,11 +1,11 @@
 <?php
 /*
 Plugin Name: WooCommerce Checkout Manager
-Plugin URI: http://www.trottyzone.com/product/woocommerce-checkout-manager-pro
+Plugin URI: http://www.trottyzone.com/product/woocommerce-checkout-manager-pro/
 Description: Manages WooCommerce Checkout fields
 Version: 3.6.7
 Author: Ephrain Marchan
-Author URI: http://www.trottyzone.com
+Author URI: http://www.trottyzone.com/product/woocommerce-checkout-manager-pro/
 License: GPLv2 or later
 */
 /*
