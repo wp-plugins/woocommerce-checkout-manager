@@ -11,24 +11,15 @@ Manages WooCommerce Checkout
 
 == Description ==
 
-This is a WooCommerce extension plugin that targets the checkout processes in which goods are bought. This plugin gives you capabilities to manage your products on checkout such as removing fields that you do not need, removing the required attribute rendering the field optional to customer or even perhaps adding more fields to the checkout page. This plugin certainly can.
+This extension plugin gives you capabilities to manage your fields on your [WooCommerce](http://wordpress.org/plugins/woocommerce/) checkout page.
 
 = FEATURES =
-
-* Re-order new fields. 
-
-* Add new fields to the checkout page.
-
-* Add or Remove the required asterisk from fields on checkout page. 
-
-* Make checkout fields completely optional for the customer to fill out.
-
-* Enable/ Disable "Additional information" name on the Order Summary and Receipt.
-
-* Four ( 4 ) fields types included: Text Input + Check Box + Select Options + Date Picker
-
-* Added fields will appear on Order Summary and Receipt under “Additional information.”
-
+* Add new fields to the checkout page and re-order them.
+* Make checkout fields optional.
+* Remove & Make required fields. 
+* Added fields will appear on Order Summary, Receipt and Back-end in Orders.
+* Enable/ Disable "Additional Fields" section name on the Order Summary and Receipt.
+* Four ( 4 ) fields types included: Text Input + Check Box + Select Options + Date Picker.
 * Compatible with [WPML](http://wpml.org/) | [WooCommerce Print Invoice & Delivery Note](http://wordpress.org/plugins/woocommerce-delivery-notes/) | [ WooCommerce Order/Customer CSV Export](http://www.woothemes.com/products/ordercustomer-csv-export/)
 
 = PRO VERSION =
@@ -36,73 +27,26 @@ This is a WooCommerce extension plugin that targets the checkout processes in wh
 
 * Add new fields to the **Billing** and **Shipping** Section **separately** from Additional Section. 
 * These fields can be edited on your customers **account** page.
-
-= Ten ( 12 ) field types included: =
-1. Text Input	
-2. Text Area 
-3. Password 
-4. Radio Button (Unlimited Options)
-5. Select Options (Unlimited Options)
-6. Check Box (Put your own options)
-7. Date Picker 
-8. Time Picker 
-9. Text/ Html Swapper	
-10. Color Picker
-11. Heading
-12. Multi-Select
-13. Multi-Checkbox
-
-= More Features =
-* Create Conditional Fields which includes 
-* to allow customer to Remove Tax (Tax Exempt),
-* to allow customer to Add Amount on checkout (Pre-defined by admin or Customer Can Enter Any Amount).
-
+* Twelve ( 12 ) field types included: Text Area + Password + Radio + Select + Pre-defined Check Box + Time Picker + Text/ Html Swapper + Color Picker + Heading + Multi-Select + Multi-Checkbox etc...
+* Create Conditional Fields.
+* Create field to remove tax.
+* Create field to add additional amount.
 * Replace Text using Text/ Html Swapper.
-
 * Allow Customers to Upload files for each order.
-
 * Show or Hide added field for Specific Product or Category Only.
-
 * Display Payment Method and Shipping Method used by customer.
-
 * Disable any added field from Checkout details page and Order Receipt.
-
 * Retain fields information for customers when they navigate back and forth from checkout.
-
 * Disable Billing Address fields for chosen shipping goods. Which makes them visible only for virtual goods.
-
 * DatePicker: Change the default format (dd-mm-yy), Set Minimum Date and Maximum Date, Disable days in the week (Sun – Sat).
-
 * TimePicker: Includes restriction of both start and end hours, set the minutes interval and manually input labels.
-
 * Area to insert your own Custom CSS.
-
 * Display Order Time.
-
 * Set Default State for checkout.
-
 * Import/ Export added fields data.
-
 * Fields label can accept html characters.
-
-* Disable/ Change Additional information Title
-
-
-= Added fields will appear on =
-1. Order Summary 
-2. Receipt 
-3. Order Details (back-end)
-
-= Re-position the added fields =
-1. Before Shipping Form 
-2. After Shipping Form 
-3. Before Billing Form 
-4. After Billing Form 
-5. After Order Notes
-
-= Insert Up to two (2) Notices on checkout page =
-1. Before Customer Address Fields 
-2. Before Order Summary
+* Re-position the added fields: Before Shipping Form, After Shipping Form, Before Billing Form, After Billing Form or After Order Notes
+* Insert Notice: Before Customer Address Fields and Before Order Summary on checkout page.
 
 
 = INCLUDED TRANSLATIONS =
@@ -123,7 +67,7 @@ This is a WooCommerce extension plugin that targets the checkout processes in wh
 
 
 Would you like this plugin translated in your own language? or Perhaps help us translate?
-You can put in an request at <a href="http://www.trottyzone.com/contact-us/">Contact Form</a>.
+You can put in an request at [Contact Form](http://www.trottyzone.com/contact-us/).
 
 
 = ------------ THANK YOU FOR DOWNLOADING ------------ =
@@ -162,11 +106,9 @@ Automatic updates are delivered just like any other WordPress plugin.
 Usually this is an CSS issue. If your theme comes with the option to input your very own custom CSS, you can use the abbreviation field name as part of the CSS code to set the fields in the way that you want. 
 
 Example :
-`
-#myfield1_field {
+`#myfield1_field {
 	float: right;
-}
-`
+}`
 
 = How do I review the data from the custom fields? = 
 Your order data can be reviewed in each order. By default your "Custom Fields" section should be showing allowing you to see the custom fields data.
