@@ -162,11 +162,9 @@ Automatic updates are delivered just like any other WordPress plugin.
 Usually this is an CSS issue. If your theme comes with the option to input your very own custom CSS, you can use the abbreviation field name as part of the CSS code to set the fields in the way that you want. 
 
 Example :
-`
-#myfield1_field {
+`#myfield1_field {
 	float: right;
-}
-`
+}`
 
 = How do I review the data from the custom fields? = 
 Your order data can be reviewed in each order. By default your "Custom Fields" section should be showing allowing you to see the custom fields data.
