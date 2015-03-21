@@ -11,7 +11,7 @@ Manages WooCommerce Checkout
 
 == Description ==
 
-This extension plugin gives you capabilities to manage your fields on your (WooCommerce)[http://wordpress.org/plugins/woocommerce/] checkout page.
+This extension plugin gives you capabilities to manage your fields on your [WooCommerce](http://wordpress.org/plugins/woocommerce/) checkout page.
 
 = FEATURES =
 * Add new fields to the checkout page and re-order them.
@@ -67,7 +67,7 @@ This extension plugin gives you capabilities to manage your fields on your (WooC
 
 
 Would you like this plugin translated in your own language? or Perhaps help us translate?
-You can put in an request at <a href="http://www.trottyzone.com/contact-us/">Contact Form</a>.
+You can put in an request at [Contact Form](http://www.trottyzone.com/contact-us/).
 
 
 = ------------ THANK YOU FOR DOWNLOADING ------------ =
