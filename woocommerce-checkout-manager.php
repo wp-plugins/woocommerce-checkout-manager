@@ -513,7 +513,7 @@ $options = get_option( 'wccs_settings' );
                             value="<?php echo esc_attr($options['buttons'][$i]['cow']); ?>" readonly="readonly" /></td>
                           
                             <td style="text-align:center;"><input style="float:none;" name="wccs_settings[buttons][<?php echo $i; ?>][checkbox]" type="checkbox" value="true" <?php echo (isset($options['buttons'][$i]['checkbox'])) ? "checked='checked'": ""; ?> /></td>
-                            <td class="wccs-remove"><a class="wccs-remove-button" href="javascript:;" title="<?php esc_attr_e( 'Remove Field' , 'woocommerce-checkout-manager' ); ?>">&times;</a></td>
+                            <td class="wccs-remove"><a style="color: #a00 !important;" class="wccs-remove-button" href="javascript:;" title="<?php esc_attr_e( 'Remove Field' , 'woocommerce-checkout-manager' ); ?>">&times;</a></td>
                     </tr>
             
             <?php endfor; endif; ?>
