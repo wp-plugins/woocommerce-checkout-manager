@@ -27,26 +27,26 @@ This extension plugin gives you capabilities to manage your fields on your [WooC
 
 * Add new fields to the **Billing** and **Shipping** Section **separately** from Additional Section. 
 * These fields can be edited on your customers **account** page.
-* Twelve ( 12 ) field types included: Text Area + Password + Radio + Select + Pre-defined Check Box + Time Picker + Text/ Html Swapper + Color Picker + Heading + Multi-Select + Multi-Checkbox etc...
+* Thirteen ( 13 ) field types included: Text Area + Password + Radio + Select + Pre-defined Check Box + Time Picker + Text/ Html Swapper + Color Picker + Heading + Multi-Select + Multi-Checkbox etc...
 * Create Conditional Fields.
 * Create field to remove tax.
 * Create field to add additional amount.
 * Replace Text using Text/ Html Swapper.
-* Allow Customers to Upload files for each order.
+* Allow Customers to =Upload files= for each order.
 * Show or Hide added field for Specific Product or Category Only.
-* Display Payment Method and Shipping Method used by customer.
+* Display =Payment Method= and Shipping Method used by customer.
 * Disable any added field from Checkout details page and Order Receipt.
-* Retain fields information for customers when they navigate back and forth from checkout.
+* =Retain fields information= for customers when they navigate back and forth from checkout.
 * Disable Billing Address fields for chosen shipping goods. Which makes them visible only for virtual goods.
-* DatePicker: Change the default format (dd-mm-yy), Set Minimum Date and Maximum Date, Disable days in the week (Sun – Sat).
-* TimePicker: Includes restriction of both start and end hours, set the minutes interval and manually input labels.
-* Area to insert your own Custom CSS.
-* Display Order Time.
+* =DatePicker:= Change the default format (dd-mm-yy), Set Minimum Date and Maximum Date, Disable days in the week (Sun – Sat).
+* =TimePicker:= Includes restriction of both start and end hours, set the minutes interval and manually input labels.
+* Area to insert your own =Custom CSS=.
+* Display =Order Time=.
 * Set Default State for checkout.
-* Import/ Export added fields data.
+* =Import/ Export= added fields data.
 * Fields label can accept html characters.
 * Re-position the added fields: Before Shipping Form, After Shipping Form, Before Billing Form, After Billing Form or After Order Notes
-* Insert Notice: Before Customer Address Fields and Before Order Summary on checkout page.
+* =Insert Notice:= Before Customer Address Fields and Before Order Summary on checkout page.
 
 
 = INCLUDED TRANSLATIONS =
