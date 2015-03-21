@@ -1,7 +1,7 @@
 === WooCommerce Checkout Manager ===
 Contributors: Emark
 Donate Link: http://www.trottyzone.com/donation/
-Tags: woocommerce, checkout settings, remove fields, shipping, order, fields, checkout page, checkout field, checkout manager, required remove, woocommerce checkout manager, checkout, checkout field editor, field editor, woocommerce custom checkout options , custom checkout, checkout option, field, payment, sell, buy, pay, tax, notice, re-order, order, new field, save field, manager, options, field editor
+Tags: woocommerce, cart, checkout, field, shipping, billing, order, manage, require, remove, editor, custom, payment, sell, buy, pay, tax, notice, re-order, addition, amount, exempt, sale, affiliate, commerce, e-commerce, store, shop, stock, variable, trottyzone, wordpress, woothemes
 Requires at least: 3.0
 Tested up to: 4.2
 Stable tag: 3.6.8
