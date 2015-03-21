@@ -76,9 +76,6 @@ You can put in an request at [Contact Form](http://www.trottyzone.com/contact-us
 
 == Installation ==
 
-
-First Method:
-
 = Minimum Requirements =
 WordPress 3.8 or greater
 * PHP version 5.2.4 or greater
