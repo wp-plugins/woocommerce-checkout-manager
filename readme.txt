@@ -78,8 +78,8 @@ You can put in an request at [Contact Form](http://www.trottyzone.com/contact-us
 
 = Minimum Requirements =
 WordPress 3.8 or greater
-* PHP version 5.2.4 or greater
-* MySQL version 5.0 or greater
+*PHP version 5.2.4 or greater
+*MySQL version 5.0 or greater
 
 = WP installation =
 1. Log in to your WordPress dashboard
