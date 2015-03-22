@@ -1,7 +1,7 @@
 === WooCommerce Checkout Manager ===
 Contributors: Emark
 Donate Link: http://www.trottyzone.com/donation/
-Tags: woocommerce, cart, checkout, field, shipping, billing, order, manage, require, remove, editor, custom, payment, sell, buy, pay, tax, notice, re-order, addition, amount, exempt, sale, affiliate, commerce, e-commerce, store, shop, stock, variable, trottyzone, wordpress, woothemes
+Tags: woocommerce, cart, checkout, field, shipping, billing, order, manage, manager, require, remove, editor, custom, options, payment, sell, buy, pay, tax, notice, re-order, addition, amount, exempt, sale, affiliate, commerce, e-commerce, store, shop, stock, variable, trottyzone, wordpress, woothemes
 Requires at least: 3.0
 Tested up to: 4.2
 Stable tag: 3.6.8
@@ -19,7 +19,7 @@ This extension plugin gives you capabilities to manage your fields on your [WooC
 * Remove & Make required fields. 
 * Added fields will appear on Order Summary, Receipt and Back-end in Orders.
 * Enable/ Disable "Additional Fields" section name on the Order Summary and Receipt.
-* Four ( 4 ) fields types included: Text Input + Check Box + Select Options + Date Picker.
+* **Four ( 4 )** fields types included: Text Input + Check Box + Select Options + Date Picker.
 * Compatible with [WPML](http://wpml.org/) | [WooCommerce Print Invoice & Delivery Note](http://wordpress.org/plugins/woocommerce-delivery-notes/) | [ WooCommerce Order/Customer CSV Export](http://www.woothemes.com/products/ordercustomer-csv-export/)
 
 = PRO VERSION =
@@ -27,7 +27,7 @@ This extension plugin gives you capabilities to manage your fields on your [WooC
 
 * Add new fields to the **Billing** and **Shipping** Section **separately** from Additional Section. 
 * These fields can be edited on your customers **account** page.
-* Thirteen ( 13 ) field types included: Text Area + Password + Radio + Select + Pre-defined Check Box + Time Picker + **Text/ Html Swapper** + Color Picker + Heading + Multi-Select + Multi-Checkbox etc...
+* **Thirteen ( 13 )** field types included: Text Area + Password + Radio + Select + Pre-defined Check Box + Time Picker + **Text/ Html Swapper** + Color Picker + Heading + Multi-Select + Multi-Checkbox etc...
 * Create Conditional Fields.
 * Create field to remove tax.
 * Create field to add additional amount.
@@ -66,8 +66,10 @@ This extension plugin gives you capabilities to manage your fields on your [WooC
 * CHINESE by Sid Lo
 
 
-Would you like this plugin translated in your own language? or Perhaps help us translate?
-You can put in an request at [Contact Form](http://www.trottyzone.com/contact-us/).
+Would you like this plugin translated in your own language? 
+Do you want to update an existing translation?
+
+Find out how at [Translating WooCommerce Checkout Manager in your Language](http://www.trottyzone.com/translating-woocommerce-checkout-manager-in-your-language/).
 
 
 = ------------ THANK YOU FOR DOWNLOADING ------------ =
