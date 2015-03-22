@@ -1,0 +1,304 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: woocommerce-checkout-manager\n"
+"POT-Creation-Date: 2015-03-22 09:19-0400\n"
+"PO-Revision-Date: 2015-03-22 09:20-0400\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.5\n"
+"X-Poedit-KeywordsList: _;__;_e;esc_attr_e\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: woocommerce-checkout-manager.php:48
+msgid "Additional Information"
+msgstr ""
+
+#: woocommerce-checkout-manager.php:53
+msgid "Example Label"
+msgstr ""
+
+#: woocommerce-checkout-manager.php:54
+msgid "Example placeholder"
+msgstr ""
+
+#: woocommerce-checkout-manager.php:55
+msgid "myfld1"
+msgstr ""
+
+#: woocommerce-checkout-manager.php:56
+msgid "option 1"
+msgstr ""
+
+#: woocommerce-checkout-manager.php:57
+msgid "option 2"
+msgstr ""
+
+#: woocommerce-checkout-manager.php:88
+msgid "Woocommerce Checkout Manager"
+msgstr ""
+
+#: woocommerce-checkout-manager.php:88
+msgid "Checkout Manager"
+msgstr ""
+
+#: woocommerce-checkout-manager.php:99
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: woocommerce-checkout-manager.php:110
+msgid "settings saved."
+msgstr ""
+
+#: woocommerce-checkout-manager.php:129
+msgid "Billing Section"
+msgstr ""
+
+#: woocommerce-checkout-manager.php:130
+msgid "Shipping Section"
+msgstr ""
+
+#: woocommerce-checkout-manager.php:131
+msgid "Additional Fields"
+msgstr ""
+
+#: woocommerce-checkout-manager.php:137 woocommerce-checkout-manager.php:297
+msgid "Field Name"
+msgstr ""
+
+#: woocommerce-checkout-manager.php:138 woocommerce-checkout-manager.php:298
+msgid "Remove Field Entirely"
+msgstr ""
+
+#: woocommerce-checkout-manager.php:139 woocommerce-checkout-manager.php:299
+msgid "Remove Required Attribute"
+msgstr ""
+
+#: woocommerce-checkout-manager.php:140 woocommerce-checkout-manager.php:300
+msgid "Replace Label Name"
+msgstr ""
+
+#: woocommerce-checkout-manager.php:141 woocommerce-checkout-manager.php:301
+msgid "Replace Placeholder Name"
+msgstr ""
+
+#: woocommerce-checkout-manager.php:147 woocommerce-checkout-manager.php:307
+msgid "Select All Check boxes in this Column"
+msgstr ""
+
+#: woocommerce-checkout-manager.php:157 woocommerce-checkout-manager.php:317
+msgid "First Name"
+msgstr ""
+
+#: woocommerce-checkout-manager.php:172 woocommerce-checkout-manager.php:330
+msgid "Last Name"
+msgstr ""
+
+#: woocommerce-checkout-manager.php:184 woocommerce-checkout-manager.php:354
+msgid "Country"
+msgstr ""
+
+#: woocommerce-checkout-manager.php:195
+msgid "Phone"
+msgstr ""
+
+#: woocommerce-checkout-manager.php:207
+msgid "Email"
+msgstr ""
+
+#: woocommerce-checkout-manager.php:219 woocommerce-checkout-manager.php:342
+msgid "Company"
+msgstr ""
+
+#: woocommerce-checkout-manager.php:231
+msgid "Order Notes"
+msgstr ""
+
+#: woocommerce-checkout-manager.php:243 woocommerce-checkout-manager.php:365
+msgid "Address 1"
+msgstr ""
+
+#: woocommerce-checkout-manager.php:253 woocommerce-checkout-manager.php:375
+msgid "Address 2"
+msgstr ""
+
+#: woocommerce-checkout-manager.php:263 woocommerce-checkout-manager.php:385
+msgid "City"
+msgstr ""
+
+#: woocommerce-checkout-manager.php:273 woocommerce-checkout-manager.php:395
+msgid "Postal Code"
+msgstr ""
+
+#: woocommerce-checkout-manager.php:283 woocommerce-checkout-manager.php:405
+msgid "State"
+msgstr ""
+
+#: woocommerce-checkout-manager.php:420
+msgid "TRY THE PRO VERSION"
+msgstr ""
+
+#: woocommerce-checkout-manager.php:420
+msgid "includes these field types"
+msgstr ""
+
+#: woocommerce-checkout-manager.php:423
+msgid "Text Area"
+msgstr ""
+
+#: woocommerce-checkout-manager.php:424
+msgid "Password"
+msgstr ""
+
+#: woocommerce-checkout-manager.php:425
+msgid "Mult-Select"
+msgstr ""
+
+#: woocommerce-checkout-manager.php:428
+msgid "Radio Button (Unlimited Options)"
+msgstr ""
+
+#: woocommerce-checkout-manager.php:429
+msgid "Select Options (Unlimited Options)"
+msgstr ""
+
+#: woocommerce-checkout-manager.php:430
+msgid "Time Picker"
+msgstr ""
+
+#: woocommerce-checkout-manager.php:433
+msgid "Text/ Html Swapper"
+msgstr ""
+
+#: woocommerce-checkout-manager.php:434
+msgid "Color Picker"
+msgstr ""
+
+#: woocommerce-checkout-manager.php:435
+msgid "Heading"
+msgstr ""
+
+#: woocommerce-checkout-manager.php:438
+msgid "Add Additional Amount fields"
+msgstr ""
+
+#: woocommerce-checkout-manager.php:439
+msgid "Create Conditional Fields"
+msgstr ""
+
+#: woocommerce-checkout-manager.php:440
+msgid "Remove Tax field"
+msgstr ""
+
+#: woocommerce-checkout-manager.php:443
+msgid "Pre-defined Checkbox"
+msgstr ""
+
+#: woocommerce-checkout-manager.php:444
+msgid "Export Fields"
+msgstr ""
+
+#: woocommerce-checkout-manager.php:445
+msgid "Add Notices"
+msgstr ""
+
+#: woocommerce-checkout-manager.php:456
+msgid "Section Name"
+msgstr ""
+
+#: woocommerce-checkout-manager.php:460
+msgid "Checkout Page"
+msgstr ""
+
+#: woocommerce-checkout-manager.php:462
+msgid "Checkout Details and Email Receipt"
+msgstr ""
+
+#: woocommerce-checkout-manager.php:470 woocommerce-checkout-manager.php:489
+#: woocommerce-checkout-manager.php:524
+msgid "Change order"
+msgstr ""
+
+#: woocommerce-checkout-manager.php:471
+msgid "Label"
+msgstr ""
+
+#: woocommerce-checkout-manager.php:472
+msgid "Placeholder"
+msgstr ""
+
+#: woocommerce-checkout-manager.php:473
+msgid "Option A"
+msgstr ""
+
+#: woocommerce-checkout-manager.php:474
+msgid "Options B"
+msgstr ""
+
+#: woocommerce-checkout-manager.php:475
+msgid "Choose Type"
+msgstr ""
+
+#: woocommerce-checkout-manager.php:476
+msgid "Abbreviation"
+msgstr ""
+
+#: woocommerce-checkout-manager.php:477
+msgid "Required"
+msgstr ""
+
+#: woocommerce-checkout-manager.php:478
+msgid "Remove button"
+msgstr ""
+
+#: woocommerce-checkout-manager.php:516 woocommerce-checkout-manager.php:546
+msgid "Remove Field"
+msgstr ""
+
+#: woocommerce-checkout-manager.php:527
+msgid "Label of the New Field"
+msgstr ""
+
+#: woocommerce-checkout-manager.php:529
+msgid "Placeholder - Preview of Data to Input"
+msgstr ""
+
+#: woocommerce-checkout-manager.php:531
+msgid "Insert Option A"
+msgstr ""
+
+#: woocommerce-checkout-manager.php:533
+msgid "Insert Option B"
+msgstr ""
+
+#: woocommerce-checkout-manager.php:543
+msgid "Abbreviation (No spaces)"
+msgstr ""
+
+#: woocommerce-checkout-manager.php:545
+msgid "Add/Remove Required Attribute"
+msgstr ""
+
+#: woocommerce-checkout-manager.php:552
+msgid "+ Add New Field"
+msgstr ""
+
+#: woocommerce-checkout-manager.php:568
+msgid "Settings"
+msgstr ""
+
+#: woocommerce-checkout-manager.php:569
+msgid "Pro Version"
+msgstr ""
+
+#: woocommerce-checkout-manager.php:787
+msgid "Select below"
+msgstr ""
+
+#: woocommerce-checkout-manager.php:866
+msgid "is a required field"
+msgstr ""
