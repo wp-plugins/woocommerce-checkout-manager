@@ -25,6 +25,8 @@ This extension plugin gives you capabilities to manage your fields on your [WooC
 = PRO VERSION =
 [WooCommerce Checkout Manager Pro](http://www.trottyzone.com/product/woocommerce-checkout-manager-pro/) offers these cool nifty extra features:
 
+* **NEW!** Sort Orders by Field Name
+* **NEW!** Export Orders by Field Name
 * Add new fields to the **Billing** and **Shipping** Section **separately** from Additional Section. 
 * These fields can be edited on your customers **account** page.
 * **Thirteen ( 13 )** field types included: Text Area + Password + Radio + Select + Pre-defined Check Box + Time Picker + **Text/ Html Swapper** + Color Picker + Heading + Multi-Select + Multi-Checkbox etc...
