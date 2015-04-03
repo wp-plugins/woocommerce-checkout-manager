@@ -913,7 +913,7 @@ return $input;
 function wccs_custom_checkout_details( $order_id ) {
 $options = get_option( 'wccs_settings' );
 
-    if (true == ($options['checkness']['checkbox1']) )  {
+    if ( !empty($options['checkness']['checkbox1']) )  {
         echo '<h2>'.esc_attr( $options['replace']['add_information'] ). '</h2>';
     }
     
