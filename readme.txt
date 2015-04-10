@@ -29,7 +29,7 @@ This extension plugin gives you capabilities to manage your fields on your [WooC
 * **NEW!** Export Orders by Field Name
 * Add new fields to the **Billing** and **Shipping** Section **separately** from Additional Section. 
 * These fields can be edited on your customers **account** page.
-* **Thirteen ( 13 )** field types included: Text Area + Password + Radio + Select + Pre-defined Check Box + Time Picker + **Text/ Html Swapper** + Color Picker + Heading + Multi-Select + Multi-Checkbox etc...
+* **Fifteen ( 15 )** field types included: Text Area + Password + Radio + Select + Pre-defined Check Box + Time Picker + **Text/ Html Swapper** + Color Picker + Heading + Multi-Select + Multi-Checkbox etc...
 * Create Conditional Fields.
 * Create field to remove tax.
 * Create field to add additional amount.
