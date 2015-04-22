@@ -51,21 +51,22 @@ This extension plugin gives you capabilities to manage your fields on your [WooC
 * **Insert Notice:** Before Customer Address Fields and Before Order Summary on checkout page.
 
 
-= INCLUDED TRANSLATIONS =
+= INCLUDED TRANSLATIONS (Alphabetical order) =
 
-* SPANISH
-* GERMAN
-* ITALIAN
-* DUTCH
-* FINNISH
-* FRENCH
-* NORWEGIAN
-* POLISH
-* VIETNAMSE
-* EUROPEAN PORTUGUESE
 * BRAZILIAN PORTUGUESE
 * BULGARIAN by Ivo Minchev
 * CHINESE by Sid Lo
+* DUTCH
+* EUROPEAN PORTUGUESE
+* FINNISH
+* FRENCH
+* GERMAN
+* ITALIAN
+* NORWEGIAN
+* POLISH
+* SERBIAN by Andrijana Nikolic at [webhostinggeeks](http://webhostinggeeks.com/)
+* SPANISH
+* VIETNAMSE
 
 
 Would you like this plugin translated in your own language? 
