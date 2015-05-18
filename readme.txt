@@ -25,7 +25,7 @@ This extension plugin gives you capabilities to manage your fields on your [WooC
 = PRO VERSION =
 [WooCommerce Checkout Manager Pro](http://www.trottyzone.com/product/woocommerce-checkout-manager-pro/) offers these cool nifty extra features:
 
-* **NEW** Upload files on Checkout Page
+* **NEW** -- Upload files on Checkout Page
 * Sort Orders by Field Name
 * Export Orders by Field Name
 * Add new fields to the **Billing** and **Shipping** Section **separately** from Additional Section. 
